@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dragos/Dropbox/PROGRAMARE/InfoArena/DFS/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+cstring
+-
+
