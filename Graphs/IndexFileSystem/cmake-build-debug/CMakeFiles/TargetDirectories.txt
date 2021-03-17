@@ -1,3 +1,3 @@
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir
+E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

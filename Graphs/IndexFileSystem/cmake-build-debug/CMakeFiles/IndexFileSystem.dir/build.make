@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem"
+CMAKE_SOURCE_DIR = E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug"
+CMAKE_BINARY_DIR = E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/IndexFileSystem.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/IndexFileSystem.dir/flags.make
 
 CMakeFiles/IndexFileSystem.dir/main.cpp.obj: CMakeFiles/IndexFileSystem.dir/flags.make
 CMakeFiles/IndexFileSystem.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IndexFileSystem.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\IndexFileSystem.dir\main.cpp.obj -c "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/IndexFileSystem.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\IndexFileSystem.dir\main.cpp.obj -c E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\main.cpp
 
 CMakeFiles/IndexFileSystem.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IndexFileSystem.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\main.cpp" > CMakeFiles\IndexFileSystem.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\main.cpp > CMakeFiles\IndexFileSystem.dir\main.cpp.i
 
 CMakeFiles/IndexFileSystem.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IndexFileSystem.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\main.cpp" -o CMakeFiles\IndexFileSystem.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\main.cpp -o CMakeFiles\IndexFileSystem.dir\main.cpp.s
 
 CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj: CMakeFiles/IndexFileSystem.dir/flags.make
 CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj: ../BTree/BTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.obj -c "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\BTree\BTree.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.obj -c E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\BTree\BTree.cpp
 
 CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\BTree\BTree.cpp" > CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\BTree\BTree.cpp > CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.i
 
 CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\BTree\BTree.cpp" -o CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\BTree\BTree.cpp -o CMakeFiles\IndexFileSystem.dir\BTree\BTree.cpp.s
 
 # Object files for target IndexFileSystem
 IndexFileSystem_OBJECTS = \
@@ -96,7 +96,7 @@ IndexFileSystem.exe: CMakeFiles/IndexFileSystem.dir/build.make
 IndexFileSystem.exe: CMakeFiles/IndexFileSystem.dir/linklibs.rsp
 IndexFileSystem.exe: CMakeFiles/IndexFileSystem.dir/objects1.rsp
 IndexFileSystem.exe: CMakeFiles/IndexFileSystem.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable IndexFileSystem.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable IndexFileSystem.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\IndexFileSystem.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/IndexFileSystem.dir/clean:
 .PHONY : CMakeFiles/IndexFileSystem.dir/clean
 
 CMakeFiles/IndexFileSystem.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\IndexFileSystem\cmake-build-debug\CMakeFiles\IndexFileSystem.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug E:\CloningGitHub\C-C-plus-plus\Graphs\IndexFileSystem\cmake-build-debug\CMakeFiles\IndexFileSystem.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/IndexFileSystem.dir/depend
 

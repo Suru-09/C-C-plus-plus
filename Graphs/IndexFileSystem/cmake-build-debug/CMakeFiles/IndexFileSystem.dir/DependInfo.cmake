@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/BTree/BTree.cpp" "C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj"
-  "C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/main.cpp" "C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir/main.cpp.obj"
+  "E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/BTree/BTree.cpp" "E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir/BTree/BTree.cpp.obj"
+  "E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/main.cpp" "E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/CMakeFiles/IndexFileSystem.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

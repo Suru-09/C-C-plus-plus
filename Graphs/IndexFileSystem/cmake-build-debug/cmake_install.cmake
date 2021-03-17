@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem
+# Install script for directory: E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/IndexFileSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/CloningGitHub/C-C-plus-plus/Graphs/IndexFileSystem/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
