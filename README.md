@@ -8,7 +8,7 @@
 
 ```
 1) Algorithm Data and Analysis Project: [Index File System] 
-   * Using persistent B-Trees in orderr to create an [indexing file]
+   * Using persistent B-Trees in order to create an [indexing file]
    * This indexes are create based on a [data file] given
 ```
 
