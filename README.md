@@ -1,4 +1,4 @@
-#Basic algorithms in C\C++
+# Basic algorithms in C\C++
 
 
 ## Backtracking
