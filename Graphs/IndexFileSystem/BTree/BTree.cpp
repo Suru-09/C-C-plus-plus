@@ -1,13 +1,12 @@
 #include "BTree.h"
 #include<iostream>
 
-
 Node::Node(int t, bool leaf) {
     this->t = t;
     this->leaf = leaf;
 
-    keys = new int[2 * t - 1];
-    values = new
+    keys = new uint64_t [2 * t - 1];
+    values = new uint64_t [2 * t - 1];
     children = new Node *[2 * t];
     n = 0;  //initialising
 }
@@ -18,7 +17,7 @@ void Node::traverse() {
     for(i = 0 ; i < n ; ++i) {
         if(!leaf)
             children[i]->traverse();
-        cout <<" " << keys[i];
+        cout <<" " << keys[i] << "   " << values[i];
     }
 
     //it wouldn't go on the following subtree if not for this
@@ -31,7 +30,9 @@ void BTree::traverse() {
         root->traverse();
 }
 
-BTree::BTree(int t) {
+BTree::BTree(int t, int keysize) {
+
+    key_size = keysize;
     this->t = t;
     root = nullptr;
 }
@@ -42,9 +43,11 @@ void Node::BTreeSplitChild(Node *y, int i) {
     Node *z = new Node(y->t, y->leaf);
     z->n = t - 1;
 
-    //copy the keys into the z node
-    for(int j = 0 ; j < t - 1; ++j)
+    //copy the keys and values into the z node
+    for(int j = 0 ; j < t - 1; ++j) {
         z->keys[j] = y->keys[t + j];
+        z->values[j] = y->values[t + j];
+    }
 
     //copy the children of y to z(last t ones)
     if( !(y->leaf) )
@@ -65,23 +68,29 @@ void Node::BTreeSplitChild(Node *y, int i) {
     //linking the new child
     children[i + 1] = z;
 
-    for(int j = n - 1 ; j >= i ; --j)
+    for(int j = n - 1 ; j >= i ; --j) {
         keys[j + 1] = keys[j];
+        values[j + 1] = values[j];
+    }
+
 
     keys[i] = y->keys[t - 1];
+    values[i] = y->values[t - 1];
     n++;
 }
 
-void Node::insertNonfull(int key) {
+void Node::insertNonfull(uint64_t key, uint64_t value) {
 
     int i = n - 1;
 
     if(leaf) {
         while(i >= 0 && key < keys[i]) {
             keys[i + 1] = keys[i];
+            values[i + 1] = values[i];
             --i;
         }
         keys[i + 1] = key;
+        values[i + 1] = value;
         n++;
     }
     else {
@@ -95,14 +104,17 @@ void Node::insertNonfull(int key) {
                 ++i;
         }
 
-        children[i + 1]->insertNonfull(key);
+        children[i + 1]->insertNonfull(key, value);
     }
 }
-void BTree::insert(int key) {
+void BTree::insert(uint64_t key, FILE* file_iterator) {
+
+    uint64_t value = ftell(file_iterator);
 
     if(!root) {
         root = new Node(t, true);
         root->keys[0] = key;
+        root->values[0] = value;
         root->n = 1;
     }
     else {
@@ -114,15 +126,15 @@ void BTree::insert(int key) {
             new_node->BTreeSplitChild(root, 0);
 
             if(new_node->keys[0] < key)
-                new_node->children[1]->insertNonfull(key);
+                new_node->children[1]->insertNonfull(key, value);
             else
-                new_node->children[0]->insertNonfull(key);
+                new_node->children[0]->insertNonfull(key, value);
 
             //finally change root
             root = new_node;
         }
         else {
-            root->insertNonfull(key);
+            root->insertNonfull(key, value);
         }
     }
 

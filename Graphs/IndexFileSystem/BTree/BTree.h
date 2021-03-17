@@ -4,13 +4,16 @@
 #endif //LAB4_BTREE_H
 
 using namespace std;
+
 #include<vector>
+#include <cstdint>
+#include<fstream>
 
 class Node {
 private:
 
-    int *keys; //key vector
-    int *values; // values vector
+    uint64_t *keys; //key vector
+    uint64_t *values; // values vector
 
     int n;  //number of keys stored in node
 
@@ -23,7 +26,7 @@ public:
     Node(int t, bool leaf);
     void traverse();
     void BTreeSplitChild(Node* y, int i);
-    void insertNonfull();
+    void insertNonfull(uint64_t key, uint64_t value);
 
     friend class BTree;
 };
@@ -34,11 +37,12 @@ private:
 
     Node *root;
     int t;
+    int key_size; //size of the key
 
 public:
-    explicit BTree(int t);
+    explicit BTree(int t, int keysize);
     void traverse();
-    void insert(int key);
+    void insert(uint64_t key, FILE* file_iterator);
 
 
 };

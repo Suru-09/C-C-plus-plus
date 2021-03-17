@@ -3,4 +3,4 @@ project(IndexFileSystem)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(IndexFileSystem main.cpp BTree/BTree.cpp BTree/BTree.h)
+add_executable(IndexFileSystem main.cpp BTree/BTree.cpp BTree/BTree.h Index/Index.cpp Index/Index.h)
