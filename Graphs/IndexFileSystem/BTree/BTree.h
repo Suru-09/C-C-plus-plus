@@ -15,6 +15,7 @@ private:
     uint64_t *keys; //key vector
     uint64_t *values; // values vector
 
+    int offset_in_file;
     int n;  //number of keys stored in node
 
     int t; //minimum degree
@@ -25,6 +26,7 @@ private:
 public:
     Node(int t, bool leaf);
     void traverse();
+    void right_in_file(char *file_name);
     void BTreeSplitChild(Node* y, int i);
     void insertNonfull(uint64_t key, uint64_t value);
 

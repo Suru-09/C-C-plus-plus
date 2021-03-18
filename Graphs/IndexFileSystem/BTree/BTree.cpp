@@ -24,6 +24,27 @@ void Node::traverse() {
     if(!leaf)
         children[i]->traverse();
 }
+
+void Node::right_in_file(char *file_name) {
+
+    FILE *file = fopen(file_name, "r");
+    if(!file) {
+        cout << "There was an error while opening the file(in BTree right in file)!";
+        exit(1);
+    }
+
+    int i;
+    for(i = 0 ; i < n ; ++i) {
+        if(!leaf)
+            children[i]->traverse();
+        cout <<" " << keys[i] << "   " << values[i] << "\n";
+    }
+
+    if(!leaf)
+        children[i]->traverse();
+
+    fclose(file);
+}
 void BTree::traverse() {
 
     if(root)
