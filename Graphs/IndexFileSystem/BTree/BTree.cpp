@@ -17,7 +17,7 @@ void Node::traverse() {
     for(i = 0 ; i < n ; ++i) {
         if(!leaf)
             children[i]->traverse();
-        cout <<" " << keys[i] << "   " << values[i];
+        cout <<" " << keys[i] << "   " << values[i] << "\n";
     }
 
     //it wouldn't go on the following subtree if not for this

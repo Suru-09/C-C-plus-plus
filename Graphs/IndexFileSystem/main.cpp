@@ -1,15 +1,18 @@
 #include <iostream>
 #include "BTree/BTree.h"
+#include "Index/Index.h"
+
 
 int main() {
 
-    FILE * fp = fopen("test.txt", "r");
-    fseek(fp, 79, SEEK_SET);
-    BTree tree(2, 1);
-    tree.insert(48, fp);
-    tree.insert(52, fp);
-    tree.insert(53, fp);
+//    IndexFile index_file("test.txt");
+//    index_file.createIndex(32, 1);
 
-    tree.traverse();
+//      IndexFile index_file("medium_test.txt");
+//      index_file.createIndex(84, 4);
+
+      IndexFile index_file("large.dat");
+      index_file.createIndex(84, 4);
+
     return 0;
 }

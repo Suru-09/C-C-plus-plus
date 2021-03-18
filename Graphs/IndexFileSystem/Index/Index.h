@@ -10,8 +10,11 @@ using namespace std;
 
 class IndexFile {
 private:
-    ifstream data_file;
+    FILE* data_file;
+    int current_offset;
+    char* file_name;
+
 public:
-    IndexFile(string data_file_name);
+    IndexFile(char* fileName);
     void createIndex(int record_size, int key_size);
 };
