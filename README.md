@@ -8,6 +8,7 @@
 2) Sudoku
 3) Knight Problem
 4) Maze
+5) Coins Problem
 ```
 ## Bits
 ## GeneralAlgorithms
