@@ -2,6 +2,13 @@
 
 
 ## Backtracking
+
+```
+1) Queens Problem
+2) Sudoku
+3) Knight Problem
+4) Maze
+```
 ## Bits
 ## GeneralAlgorithms
 ## Graphs
