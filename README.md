@@ -11,7 +11,17 @@
 5) Coins Problem
 ```
 ## Bits
+```
+1) Creating a bitmap image
+      - encrypting a text in it
+      - creating gradients
+```
 ## GeneralAlgorithms
+
+```
+1) Fibonacci in log2(N)
+        - realized using matrix multiplication
+```
 ## Graphs
 
 ```
@@ -27,3 +37,8 @@
 
 
 ## InfoArena
+
+```
+1) 'Iepuri'
+      - matrix multiplication, quite alike to fibonacci in log2(n) time
+```
