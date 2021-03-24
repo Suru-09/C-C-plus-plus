@@ -52,3 +52,23 @@
             void create_huffman_table(bst_node *tree, int bits);
             unordered_map<char, pair<int, int> > get_huffman_table();
         };
+        
+        * Function bst_node* build_huffman_tree(entry arr[]);
+                - take as parameter an entry arr
+                        - which has 2 elements a char c and an integer freq
+                - uses a min priority queue from STL to build the tree
+                         
+        * Function explicit Huffman(char *file_name);
+                - builds up the frequency array for the input file
+                - builds up the huffman tree with the function build_huffman_tree
+                - builds up the the huffman table having the huffman tree
+        
+        * Function void encode_huffman_in_file(char *input_file, char *output_file);
+                - uses the above mentioned functions to parse the input_file once again,
+                 then it encodes the data with the help of the huffman table and writes it
+                 in the output_file
+                 
+        * Function void create_huffman_table(bst_node *tree, int bits);
+                - takes as parameter the huffman tree
+                - builds the huffman table based on the tree       
+        
