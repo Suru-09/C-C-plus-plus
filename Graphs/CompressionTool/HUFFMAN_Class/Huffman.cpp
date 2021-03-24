@@ -11,29 +11,35 @@ struct Comparator {
 
 Huffman::Huffman(char *file_name) {
 
-    ifstream file("sth.txt");
+    ifstream file(file_name);
     vector<char> buffer(BLOCK_SIZE , 0);
 
     entry arr[256]{};
 
-    while(true) {
+    if(file.is_open()) {
+        while(true) {
 
-        file.read(&buffer[0], buffer.size() );
+            file.read(&buffer[0], buffer.size() );
 
-        for(char i : buffer) {
+            for(char i : buffer) {
 
-            if(!arr[i].c) {
-                arr[i].c = i;
-                arr[i].freq++;
+                if(!arr[i].c) {
+                    arr[i].c = i;
+                    arr[i].freq++;
+                }
+                else {
+                    arr[i].freq++;
+                }
             }
-            else {
-                arr[i].freq++;
-            }
+
+            if(file.eof())
+                break;
+
         }
-
-        if(file.eof())
-            break;
-
+    }
+    else {
+        cout << " There was an an error while opening the file! (Huffman constructor) ";
+        exit(1);
     }
 
     file.close();
@@ -90,13 +96,13 @@ void Huffman::encode_huffman_in_file(char *input_file, char *output_file) {
                     string aux{};
                     unsigned int nr = got->second.second;
                     for(int i = sizeof(int) ; i >= 0 ; --i) {
-                        if((nr >> i) & 1)
+                        if( (nr >> i) & 1)
                             aux.append("1");
-                        else if(aux.size() != 0)
+                        else if(!aux.empty())
                             aux.append("0");
                     }
 
-                    if(!aux.size())
+                    if(aux.empty())
                         aux.append("0");
 
                     //cout << "Number : " << nr << " String: " << aux << "\n";
@@ -138,7 +144,7 @@ void Huffman::decode_huffman_in_file(const unordered_map<char, pair<int, int> >&
     entry arr[256]{};
     int index = 0;
 
-    for(auto i : huffman_table) {
+    for(auto i : huffmanTable) {
         arr[index].c = i.first;
         arr[index].freq = i.second.first;
         ++index;

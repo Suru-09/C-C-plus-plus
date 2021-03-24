@@ -6,19 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/BST.h
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/BST_Class/BST.h
 
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.cpp
-bitset
--
-Huffman.h
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.h
-
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.h
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.h
 queue
 -
-BST.h
-C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/BST.h
+../BST_Class/BST.h
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/BST_Class/BST.h
 unordered_map
 -
 iostream
@@ -27,4 +21,12 @@ fstream
 -
 algorithm
 -
+
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/main.cpp
+iostream
+-
+cstring
+-
+HUFFMAN_Class/Huffman.h
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.h
 

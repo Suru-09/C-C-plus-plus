@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CompressionTool.dir/BST.cpp.obj"
-  "CMakeFiles/CompressionTool.dir/Huffman.cpp.obj"
+  "CMakeFiles/CompressionTool.dir/BST_Class/BST.cpp.obj"
+  "CMakeFiles/CompressionTool.dir/HUFFMAN_Class/Huffman.cpp.obj"
   "CMakeFiles/CompressionTool.dir/main.cpp.obj"
   "CompressionTool.exe"
   "CompressionTool.exe.manifest"

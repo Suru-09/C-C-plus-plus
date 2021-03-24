@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E re
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\CompressionTool"
+CMAKE_SOURCE_DIR = E:\CloningGitHub\C-C-plus-plus\Graphs\CompressionTool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\CompressionTool\cmake-build-debug"
+CMAKE_BINARY_DIR = E:\CloningGitHub\C-C-plus-plus\Graphs\CompressionTool\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\CompressionTool\cmake-build-debug\CMakeFiles" "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\CompressionTool\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\CloningGitHub\C-C-plus-plus\Graphs\CompressionTool\cmake-build-debug\CMakeFiles E:\CloningGitHub\C-C-plus-plus\Graphs\CompressionTool\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Dragos Surugiu\Dropbox\PROGRAMARE\ProgramareAn2\ADA\Projects\CompressionTool\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\CloningGitHub\C-C-plus-plus\Graphs\CompressionTool\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -122,59 +122,59 @@ CompressionTool/fast:
 	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/build
 .PHONY : CompressionTool/fast
 
-BST.obj: BST.cpp.obj
+BST_Class/BST.obj: BST_Class/BST.cpp.obj
 
-.PHONY : BST.obj
-
-# target to build an object file
-BST.cpp.obj:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST.cpp.obj
-.PHONY : BST.cpp.obj
-
-BST.i: BST.cpp.i
-
-.PHONY : BST.i
-
-# target to preprocess a source file
-BST.cpp.i:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST.cpp.i
-.PHONY : BST.cpp.i
-
-BST.s: BST.cpp.s
-
-.PHONY : BST.s
-
-# target to generate assembly for a file
-BST.cpp.s:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST.cpp.s
-.PHONY : BST.cpp.s
-
-Huffman.obj: Huffman.cpp.obj
-
-.PHONY : Huffman.obj
+.PHONY : BST_Class/BST.obj
 
 # target to build an object file
-Huffman.cpp.obj:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/Huffman.cpp.obj
-.PHONY : Huffman.cpp.obj
+BST_Class/BST.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST_Class/BST.cpp.obj
+.PHONY : BST_Class/BST.cpp.obj
 
-Huffman.i: Huffman.cpp.i
+BST_Class/BST.i: BST_Class/BST.cpp.i
 
-.PHONY : Huffman.i
+.PHONY : BST_Class/BST.i
 
 # target to preprocess a source file
-Huffman.cpp.i:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/Huffman.cpp.i
-.PHONY : Huffman.cpp.i
+BST_Class/BST.cpp.i:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST_Class/BST.cpp.i
+.PHONY : BST_Class/BST.cpp.i
 
-Huffman.s: Huffman.cpp.s
+BST_Class/BST.s: BST_Class/BST.cpp.s
 
-.PHONY : Huffman.s
+.PHONY : BST_Class/BST.s
 
 # target to generate assembly for a file
-Huffman.cpp.s:
-	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/Huffman.cpp.s
-.PHONY : Huffman.cpp.s
+BST_Class/BST.cpp.s:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/BST_Class/BST.cpp.s
+.PHONY : BST_Class/BST.cpp.s
+
+HUFFMAN_Class/Huffman.obj: HUFFMAN_Class/Huffman.cpp.obj
+
+.PHONY : HUFFMAN_Class/Huffman.obj
+
+# target to build an object file
+HUFFMAN_Class/Huffman.cpp.obj:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/HUFFMAN_Class/Huffman.cpp.obj
+.PHONY : HUFFMAN_Class/Huffman.cpp.obj
+
+HUFFMAN_Class/Huffman.i: HUFFMAN_Class/Huffman.cpp.i
+
+.PHONY : HUFFMAN_Class/Huffman.i
+
+# target to preprocess a source file
+HUFFMAN_Class/Huffman.cpp.i:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/HUFFMAN_Class/Huffman.cpp.i
+.PHONY : HUFFMAN_Class/Huffman.cpp.i
+
+HUFFMAN_Class/Huffman.s: HUFFMAN_Class/Huffman.cpp.s
+
+.PHONY : HUFFMAN_Class/Huffman.s
+
+# target to generate assembly for a file
+HUFFMAN_Class/Huffman.cpp.s:
+	$(MAKE) -f CMakeFiles\CompressionTool.dir\build.make CMakeFiles/CompressionTool.dir/HUFFMAN_Class/Huffman.cpp.s
+.PHONY : HUFFMAN_Class/Huffman.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -212,12 +212,12 @@ help:
 	@echo ... CompressionTool
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... BST.obj
-	@echo ... BST.i
-	@echo ... BST.s
-	@echo ... Huffman.obj
-	@echo ... Huffman.i
-	@echo ... Huffman.s
+	@echo ... BST_Class/BST.obj
+	@echo ... BST_Class/BST.i
+	@echo ... BST_Class/BST.s
+	@echo ... HUFFMAN_Class/Huffman.obj
+	@echo ... HUFFMAN_Class/Huffman.i
+	@echo ... HUFFMAN_Class/Huffman.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
