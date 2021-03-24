@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/BST.h
+
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.cpp
+bitset
+-
+Huffman.h
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.h
+
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/Huffman.h
+queue
+-
+BST.h
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/BST.h
+unordered_map
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+

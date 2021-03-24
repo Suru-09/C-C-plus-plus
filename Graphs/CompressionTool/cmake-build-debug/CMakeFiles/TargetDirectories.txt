@@ -1,0 +1,3 @@
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/cmake-build-debug/CMakeFiles/CompressionTool.dir
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dragos Surugiu/Dropbox/PROGRAMARE/ProgramareAn2/ADA/Projects/CompressionTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
