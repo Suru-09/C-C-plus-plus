@@ -35,6 +35,16 @@
    * Using Huffman tree method
 ```
 
+```
+3) Huffman code with 2 queues
+4) Depth first search (DFS)
+5) Breadth first search (BFS)
+6) Binary Search Tree (BST)
+7) AVL Trees
+8)  B-Trees
+9)  Trie Trees 
+```
+
 
 ## InfoArena
 
