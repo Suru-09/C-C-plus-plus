@@ -8,6 +8,12 @@
 
 E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/BST_Class/BST.h
 
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.cpp
+bitset
+-
+Huffman.h
+E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.h
+
 E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.h
 queue
 -
@@ -21,12 +27,4 @@ fstream
 -
 algorithm
 -
-
-E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/main.cpp
-iostream
--
-cstring
--
-HUFFMAN_Class/Huffman.h
-E:/CloningGitHub/C-C-plus-plus/Graphs/CompressionTool/HUFFMAN_Class/Huffman.h
 

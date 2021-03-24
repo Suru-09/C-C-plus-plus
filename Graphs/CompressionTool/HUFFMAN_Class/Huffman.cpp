@@ -9,6 +9,25 @@ struct Comparator {
     }
 };
 
+
+void Huffman::write_huffman_table_in_file() {
+
+    string s = "huffman_table";
+
+    ofstream f(s);
+    if(f.is_open()) {
+        for(auto it: huffman_table) {
+            f << it.first;
+            f << ";";
+            f << it.second.first;
+            f<< ";";
+            f << it.second.second;
+            f << "\n";
+        }
+    }
+    f.close();
+}
+
 Huffman::Huffman(char *file_name) {
 
     ifstream file(file_name);
@@ -45,6 +64,8 @@ Huffman::Huffman(char *file_name) {
     file.close();
     root = build_huffman_tree(arr);
     create_huffman_table(root, 0);
+
+    write_huffman_table_in_file();
 }
 
 bst_node * Huffman::build_huffman_tree(entry arr[]) {
@@ -130,13 +151,44 @@ void Huffman::create_huffman_table(bst_node *tree, int bits) {
         return;
 
     if(tree->is_leaf)
-        huffman_table.insert(make_pair(tree->c, make_pair(tree->freq, bits)));
+        huffman_table.insert( make_pair(tree->c, make_pair(tree->freq, bits) ) );
 
     create_huffman_table(tree->left, bits * 2);
     create_huffman_table(tree->right, bits * 2 + 1);
 }
 
-void Huffman::decode_huffman_in_file(const unordered_map<char, pair<int, int> >& huffmanTable, char *encoded_file, char *decoded_file) {
+void Huffman::decode_huffman_in_file(char *huffman_table_file, char *encoded_file, char *decoded_file) {
+
+    ifstream huff_table(huffman_table_file);
+    unordered_map< char , pair <int, int> > huffmanTable{};
+
+    if(huff_table.is_open()) {
+
+        char c;
+        char del;
+        int freq;
+        int code;
+
+        while(true) {
+            huff_table >> c;
+            huff_table >> del;
+            huff_table >> freq;
+            huff_table >> del;
+            huff_table >> code;
+
+            if(huff_table.eof())
+                break;
+
+            huffmanTable.insert(make_pair(c , make_pair(freq, code)));
+        }
+
+    }
+    else {
+            cout << "There was an error while opening the files!";
+            exit(1);
+    }
+
+    huff_table.close();
 
     ifstream input(encoded_file);
     ofstream output(decoded_file);
@@ -153,7 +205,7 @@ void Huffman::decode_huffman_in_file(const unordered_map<char, pair<int, int> >&
 //    for(int i = 0 ; i < index; ++i)
 //        cout << arr[i].c << "  " << arr[i].freq << "\n";
 
-    bst_node *huffman_tree = build_huffman_tree(arr);
+    bst_node *huffman_tree = Huffman::build_huffman_tree(arr);
     bst_node *iterator = huffman_tree;
 
     char character;
@@ -176,6 +228,10 @@ void Huffman::decode_huffman_in_file(const unordered_map<char, pair<int, int> >&
             if(input.eof())
                 break;
         }
+    }
+    else {
+        cout << "There was an error while opening the files!";
+        exit(1);
     }
 
 
