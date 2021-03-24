@@ -12,5 +12,10 @@
    * This indexes are create based on a data file given
 ```
 
+```
+2) Algorithm Data and Analysis Project: Compression Tool
+   * Using Huffman tree method
+```
+
 
 ## InfoArena
