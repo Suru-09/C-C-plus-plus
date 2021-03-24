@@ -58,7 +58,7 @@
                         - which has 2 elements a char c and an integer freq
                 - uses a min priority queue from STL to build the tree
                          
-        * Function explicit Huffman(char *file_name);
+        * Constructor explicit Huffman(char *file_name);
                 - builds up the frequency array for the input file
                 - builds up the huffman tree with the function build_huffman_tree
                 - builds up the the huffman table having the huffman tree
