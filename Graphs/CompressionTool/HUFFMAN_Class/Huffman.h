@@ -69,6 +69,6 @@ public:
     /**
      * @brief Function that writes huffman_table in a file called "huffman_table"
      */
-    void write_huffman_table_in_file();
+    void write_huffman_table_in_file(ofstream f);
     unordered_map<char, pair<int, int> > get_huffman_table();
 };
