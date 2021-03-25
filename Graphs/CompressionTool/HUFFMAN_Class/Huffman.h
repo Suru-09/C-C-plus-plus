@@ -52,12 +52,10 @@ public:
     void encode_huffman_in_file(char *input_file, char *output_file);
 
     /**
-     *
-     * @param huffman_table_file file which contains the huffman_table for decoding
      * @param input_file encoded file with the previous mentioned huffman_table
      * @param output_file location where to decode the file
      */
-    static void decode_huffman_in_file(char *huffman_table_file, char *input_file, char *output_file);
+    static void decode_huffman_in_file(char *input_file, char *output_file);
 
     /**
      * @param tree the huffman tree from where we create the huffman_table

@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
     //Decompression case
     if(!strcmp(argv[1], "-d")) {
         char str[] = "huffman_table";
-        Huffman::decode_huffman_in_file(str, argv[2], argv[3]);
+        Huffman::decode_huffman_in_file(argv[2], argv[3]);
     }
 
 
