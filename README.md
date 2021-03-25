@@ -25,13 +25,13 @@
 ## Graphs
 
 ```
-1) Algorithm Design and Analysis Project: Index File System
+1) Algorithm Data and Analysis Project: Index File System
    * Using persistent B-Trees in order to create an indexing file
    * This indexes are create based on a data file given
 ```
 
 ```
-2) Algorithm Design and Analysis Project: Compression Tool
+2) Algorithm Data and Analysis Project: Compression Tool
    * Using Huffman tree method
 ```
 
