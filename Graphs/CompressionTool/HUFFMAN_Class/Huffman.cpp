@@ -239,7 +239,3 @@ void Huffman::decode_huffman_in_file(char *huffman_table_file, char *encoded_fil
     output.close();
 
 }
-
-unordered_map<char, pair<int, int> > Huffman::get_huffman_table() {
-    return huffman_table;
-}
