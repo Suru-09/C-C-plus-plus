@@ -48,7 +48,7 @@
             explicit Huffman(char *file_name);
             bst_node * build_huffman_tree(entry arr[]);
             void encode_huffman_in_file(char *input_file, char *output_file);
-            void decode_huffman_in_file(const unordered_map<char, pair <int, int> >& huffmanTable, char *input_file, char *output_file);
+            void decode_huffman_in_file(char *input_file, char *output_file);
             void create_huffman_table(bst_node *tree, int bits);
             unordered_map<char, pair<int, int> > get_huffman_table();
         };
@@ -67,6 +67,13 @@
                 - uses the above mentioned functions to parse the input_file once again,
                  then it encodes the data with the help of the huffman table and writes it
                  in the output_file
+                 
+          * Function void decode_huffman_in_file(char *input_file, char *output_file);
+                - uses the input_file which is encoded
+                - reads first int from it which is the size of the huffman table
+                - after that it reads the huffman table
+                - with the help of the huffman table we reconstruct the huffman tree
+                - and decompress the data in the output_file
                  
         * Function void create_huffman_table(bst_node *tree, int bits);
                 - takes as parameter the huffman tree
