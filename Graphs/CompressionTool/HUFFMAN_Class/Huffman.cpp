@@ -9,25 +9,6 @@ struct Comparator {
     }
 };
 
-
-void Huffman::write_huffman_table_in_file() {
-
-    string s = "huffman_table";
-
-    ofstream f(s);
-    if(f.is_open()) {
-        for(auto it: huffman_table) {
-            f << it.first;
-            f << ";";
-            f << it.second.first;
-            f<< ";";
-            f << it.second.second;
-            f << "\n";
-        }
-    }
-    f.close();
-}
-
 Huffman::Huffman(char *file_name) {
 
     ifstream file(file_name);
@@ -203,7 +184,7 @@ void Huffman::decode_huffman_in_file(char *encoded_file, char *decoded_file) {
                 break;
 
             huffmanTable.insert(make_pair(c , make_pair(freq, code)));
-            cout << " Character: " << c << "  freq:  " << freq << "  Code: " << code << "\n";
+            //cout << " Character: " << c << "  freq:  " << freq << "  Code: " << code << "\n";
         }
 
     }
@@ -222,8 +203,8 @@ void Huffman::decode_huffman_in_file(char *encoded_file, char *decoded_file) {
         ++index;
     }
 
-    for(int i = 0 ; i < index; ++i)
-        cout << arr[i].c << "  " << arr[i].freq << "\n";
+//    for(int i = 0 ; i < index; ++i)
+//        cout << arr[i].c << "  " << arr[i].freq << "\n";
 
     bst_node *huffman_tree = Huffman::build_huffman_tree(arr);
     bst_node *iterator = huffman_tree;

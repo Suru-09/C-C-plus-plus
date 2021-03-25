@@ -22,14 +22,19 @@ int main(int argc, char *argv[]) {
     if(!strcmp(argv[1], "-c")) {
         Huffman tool(argv[2]);
         tool.encode_huffman_in_file(argv[2], argv[3]);
+        cout << "The file with name: " << argv[2] <<
+        " has been compressed in the file with name: " << argv[3] << "\n";
     }
 
     //Decompression case
     if(!strcmp(argv[1], "-d")) {
         char str[] = "huffman_table";
-        Huffman::decode_huffman_in_file(argv[2], argv[3]);
+        Huffman::decode_huffman_in_file(argv[2], argv[3]);\
+        cout << "The file with name: " << argv[2] <<
+        " has been decompressed in the file with name : " << argv[3] << "\n";
     }
 
 
+    
     return 0;
 }
