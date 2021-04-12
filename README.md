@@ -21,6 +21,19 @@
 ```
 1) Fibonacci in log2(N)
         - realized using matrix multiplication
+2) Booyer Moore 
+         - string matching
+3) KMP 
+         - string matching
+4) KochSnowflake
+         - fractals
+         - visual with SVG file
+5) HanoiTowers
+         - visual with SVG file
+6) SimpleLinkedList
+7) DoubleLinkedList
+8) Subtitles problem
+        
 ```
 ## Graphs
 
