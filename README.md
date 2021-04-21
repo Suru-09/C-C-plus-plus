@@ -50,7 +50,7 @@
 
 ```
 3) Algorithm Data and Analysis Project: Plagiarism Tool
-   * Using Hirschberg Algorithm for reducing space complexit to
+   * Using Hirschberg Algorithm for reducing space complexity to
    *  O( m + n )
 ```
 
