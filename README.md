@@ -49,6 +49,12 @@
 ```
 
 ```
+3) Algorithm Data and Analysis Project: Plagiarism Tool
+   * Using Hirschberg Algorithm for reducing space complexit to
+   *  O( m + n )
+```
+
+```
 3) Huffman code with 2 queues
 4) Depth first search (DFS)
 5) Breadth first search (BFS)
