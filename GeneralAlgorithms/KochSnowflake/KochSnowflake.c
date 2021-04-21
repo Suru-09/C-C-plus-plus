@@ -149,7 +149,7 @@ int main(){
      t3.y = -0.5 * scaling + adunare;
 
     	// -------------------------- THIS IS THE NUMBER OF ITERATIONS PLEASE CHANGE N FOR ANOTHER CASE ----------------------------------------- //
-     n_max = 6;
+     n_max = 0;
 
      if(n_max == -1){
 

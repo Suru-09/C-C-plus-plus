@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/LCS.cpp
+LCS.h
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/LCS.h
+
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/LCS.h
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+iomanip
+-
+cstring
+-
+fstream
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+stdlib.h
+-
+ctype.h
+-
+dirent.h
+-
+

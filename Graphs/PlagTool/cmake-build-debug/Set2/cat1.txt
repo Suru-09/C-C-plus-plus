@@ -1,0 +1,398 @@
+Cat
+From Wikipedia, the free encyclopedia
+This article is about the cat species that is commonly kept as a pet. For the cat family, see Felidae. For other uses, see Cat (disambiguation) and Cats (disambiguation).
+Page semi-protected
+Domestic cat[1]
+
+Conservation status
+Domesticated
+Scientific classification
+Kingdom:	Animalia
+Phylum:	Chordata
+Class:	Mammalia
+Order:	Carnivora
+Family:	Felidae
+Genus:	Felis
+Species:	F. catus
+Binomial name
+Felis catus[2]
+Linnaeus, 1758[3]
+Synonyms
+Felis silvestris catus (subjective synonym)[4]
+Felis catus domestica (invalid junior synonym)[5]
+The domestic cat[1][2] (Felis catus[2] or Felis silvestris catus[4]) is a small, usually furry, domesticated, and carnivorous mammal. It is often called the housecat when kept as an indoor pet,[6] or simply the cat when there is no need to distinguish it from other felids and felines. Cats are often valued by humans for companionship and their ability to hunt vermin and household pests.
+Cats are similar in anatomy to the other felids, with strong, flexible bodies, quick reflexes, sharp retractable claws, and teeth adapted to killing small prey. Cat senses fit a crepuscular and predatory ecological niche. Cats can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small animals. They can see in near darkness. Like most other mammals, cats have poorer color vision and a better sense of smell than humans.
+Despite being solitary hunters, cats are a social species, and cat communication includes the use of a variety of vocalizations (mewing, purring, trilling, hissing, growling and grunting) as well as cat pheromones and types of cat-specific body language.[7]
+Cats have a rapid breeding rate. Under controlled breeding, they can be bred and shown as registered pedigree pets, a hobby known as cat fancy. Failure to control the breeding of pet cats by neutering, and the abandonment of former household pets, has resulted in large numbers of feral cats worldwide, requiring population control.[8]
+Since cats were cult animals in ancient Egypt, they were commonly believed to have been domesticated there,[9] but there may have been instances of domestication as early as the Neolithic from around 9500 years ago (7500 BC).[10]
+A genetic study in 2007 concluded that domestic cats are descended from African wildcats (Felis silvestris lybica) c. 8000 BC, in the Near East.[9][11] Cats are the most popular pet in the world, and are now found in almost every place where humans live.[12]
+Contents  [hide] 
+1 Nomenclature and etymology
+2 Taxonomy and evolution
+3 Genetics
+4 Anatomy
+5 Physiology
+6 Senses
+7 Health
+7.1 Diseases
+7.2 Poisoning
+8 Behavior
+8.1 Sociability
+8.2 Grooming
+8.3 Fighting
+8.4 Hunting and feeding
+8.5 Play
+8.6 Reproduction
+8.7 Vocalizations
+9 Ecology
+9.1 Habitats
+9.2 Impact on prey species
+9.3 Impact on birds
+10 Cats and humans
+10.1 Census
+11 Feral cats
+12 History and mythology
+13 See also
+14 References
+15 External links
+Nomenclature and etymology
+
+Classification based on human interaction[13]
+Population	Food source	Shelter	Socialized
+Pedigree	Fed by guardian	Human guardian	Yes
+Pet	Fed by guardian	Human homes	Yes
+Semi-feral	General feeding	Buildings	Yes
+Feral	General feeding/foraging	Buildings	No
+The English word cat (Old English catt) is in origin a loanword, introduced to many languages of Europe from Latin cattus[14] and Byzantine Greek ??tta, including Portuguese and Spanish gato, French chat, German Katze, Lithuanian kate and Old Church Slavonic kotka, among others.[15] The ultimate source of the word is Afroasiatic, presumably from Late Egyptian caute,[16] the feminine of caus "wildcat". The word was introduced, together with the domestic animal itself, to the Roman Republic by the 1st century BC.[citation needed] An alternative word with cognates in many languages is English puss (pussycat). Attested only from the 16th century, it may have been introduced from Dutch poes or from Low German puuskatte, related to Swedish kattepus, or Norwegian pus, pusekatt. Similar forms exist in Lithuanian puiže and Irish puisín. The etymology of this word is unknown, but it may have simply arisen from a sound used to attract a cat.[17][18]
+A group of cats is referred to as a "clowder" or a "glaring",[19] a male cat is called a "tom" or "tomcat"[20] (or a "gib",[21] if neutered), an unaltered female is called a "queen",[22] and a pre-pubescent juvenile is referred to as a "kitten". Although spayed females have no commonly used name, in some rare instances immature or spayed females are referred to as a "molly".[citation needed] The male progenitor of a cat, especially a pedigreed cat, is its "sire",[23] and its female progenitor is its "dam".[24] In Early Modern English, the word kitten was interchangeable with the now-obsolete word catling.[25]
+A pedigreed cat is one whose ancestry is recorded by a cat fancier organization. A purebred cat is one whose ancestry contains only individuals of the same breed. Many pedigreed and especially purebred cats are exhibited as show cats. Cats of unrecorded, mixed ancestry are referred to as domestic short-haired or domestic long-haired cats, by coat type, or commonly as random-bred, moggies (chiefly British), or (using terms borrowed from dog breeding) mongrels or mutt-cats.
+While the African wildcat is the ancestral subspecies from which domestic cats are descended, and wildcats and domestic cats can completely interbreed, there are several intermediate stages between domestic pet and pedigree cats on the one hand and those entirely wild animals on the other. The semi-feral cat is a mostly outdoor cat that is not owned by any one individual, but is generally friendly to people and may be fed by several households. Feral cats are associated with human habitation areas and may be fed by people or forage in rubbish, but are typically wary of human interaction.[13]
+Taxonomy and evolution
+
+Main article: Cat evolution
+
+
+The wildcat, Felis silvestris, is the ancestor of the domestic cat.
+The felids are a rapidly evolving family of mammals that share a common ancestor only 10–15 million years ago,[26] and include, in addition to the domestic cat, lions, tigers, cougars, and many others. Within this family, domestic cats (Felis catus) are part of the genus Felis, which is a group of small cats containing approximately seven species (depending upon classification scheme).[1][27] Members of the genus are found worldwide and include the jungle cat (Felis chaus) of southeast Asia, European wildcat (F. silvestris silvestris), African wildcat (F. s. lybica), the Chinese mountain cat (F. bieti), and the Arabian sand cat (F. margarita), among others.[28]
+All the cats in this genus share a common ancestor that probably lived around 6–7 million years ago in Asia.[29] The exact relationships within the Felidae are close but still uncertain,[30][31] e.g. the Chinese mountain cat is sometimes classified (under the name Felis silvestris bieti) as a subspecies of the wildcat, like the North African variety F. s. lybica.[4][30] As domestic cats are little altered from wildcats, they can readily interbreed. This hybridization poses a danger to the genetic distinctiveness of wildcat populations, particularly in Scotland and Hungary, and possibly also the Iberian Peninsula.[32]
+The domestic cat was first classified as Felis catus by Carolus Linnaeus in the tenth edition of his Systema Naturae in 1758.[1][3] However, because of modern phylogenetics, domestic cats are now usually regarded as another subspecies of the wildcat, Felis silvestris.[1][4][33] This has resulted in mixed usage of the terms, as the domestic cat can be called by its subspecies name, Felis silvestris catus.[1][4][33] Wildcats have also been referred to as various subspecies of F. catus,[33] but in 2003 the International Commission on Zoological Nomenclature fixed the name for wildcats as F. silvestris.[34] The most common name in use for the domestic cat remains F. catus, following a convention for domesticated animals of using the earliest (the senior) synonym proposed.[34] Sometimes the domestic cat has been called Felis domesticus[35] or Felis domestica,[1] as proposed by German naturalist J. C. P. Erxleben in 1777, but these are not valid taxonomic names and have been used only rarely in scientific literature,[36] because Linnaeus's binomial takes precedence.[37]
+Cats have either a mutualistic or commensal relationship with humans. However, in comparison to dogs, cats have not undergone major changes during the domestication process, as the form and behavior of the domestic cat are not radically different from those of wildcats, and domestic cats are perfectly capable of surviving in the wild.[38][39] This limited evolution during domestication means that domestic cats tend to interbreed freely with wild relatives,[32] distinguishing them from other domesticated animals.[citation needed] Fully domesticated house cats also often interbreed with feral F. catus populations.[13] However, several natural behaviors and characteristics of wildcats may have pre-adapted them for domestication as pets.[39] These traits include their small size, social nature, obvious body language, love of play, and relatively high intelligence;[40]:12–17 they may also have an inborn tendency towards tameness.[39]
+There are two main theories about how cats were domesticated. In one, people deliberately tamed cats in a process of artificial selection, as they were useful predators of vermin.[41] However, this has been criticized as implausible, because there may have been little reward for such an effort: cats generally do not carry out commands and, although they do eat rodents, other species such as ferrets or terriers may be better at controlling these pests.[4] The alternative idea is that cats were simply tolerated by people and gradually diverged from their wild relatives through natural selection, as they adapted to hunting the vermin found around humans in towns and villages.[4]
+There is a population of Transcaucasian Black feral cats once classified as Felis daemon (Satunin, 1904), but now this population is considered to be a part of domestic cat.[42]
+Genetics
+
+Main article: Cat genetics
+The domesticated cat and its closest wild ancestor are both diploid organisms that possess 38 chromosomes[43] and roughly 20,000 genes.[44] About 250 heritable genetic disorders have been identified in cats, many similar to human inborn errors.[45] The high level of similarity among the metabolisms of mammals allows many of these feline diseases to be diagnosed using genetic tests that were originally developed for use in humans, as well as the use of cats as animal models in the study of the human diseases.[46][47]
+Anatomy
+
+Main article: Cat anatomy
+
+
+Diagram of the general anatomy of a male
+Domestic cats are similar in size to the other members of the genus Felis, typically weighing between 4–5 kg (8.8–11.0 lb).[30] However, some breeds, such as the Maine Coon, can occasionally exceed 11 kg (25 lb). Conversely, very small cats (less than 1.8 kg (4.0 lb)) have been reported.[48] The world record for the largest cat is 21.3 kg (47 lb).[49] The smallest adult cat ever officially recorded weighed around 1.36 kg (3.0 lb).[49] Feral cats tend to be lighter as they have more limited access to food than house cats. In the Boston area, the average feral adult male will scale 3.9 kg (8.6 lb) and average feral female 3.3 kg (7.3 lb).[50] Cats average about 23–25 cm (9–10 in) in height and 46 cm (18.1 in) in head/body length (males being larger than females), with tails averaging 30 cm (11.8 in) in length.[51]
+Cats have seven cervical vertebrae as do almost all mammals; 13 thoracic vertebrae (humans have 12); seven lumbar vertebrae (humans have five); three sacral vertebrae like most mammals (humans have five because of their bipedal posture); and a variable number of caudal vertebrae in the tail (humans retain three to five caudal vertebrae, fused into an internal coccyx).[52]:11 The extra lumbar and thoracic vertebrae account for the cat's spinal mobility and flexibility. Attached to the spine are 13 ribs, the shoulder, and the pelvis.[52] :16 Unlike human arms, cat forelimbs are attached to the shoulder by free-floating clavicle bones which allow them to pass their body through any space into which they can fit their heads.[53]
+
+
+Cat skull
+The cat skull is unusual among mammals in having very large eye sockets and a powerful and specialized jaw.[54]:35 Within the jaw, cats have teeth adapted for killing prey and tearing meat. When it overpowers its prey, a cat delivers a lethal neck bite with its two long canine teeth, inserting them between two of the prey's vertebrae and severing its spinal cord, causing irreversible paralysis and death.[55] Compared to other felines, domestic cats have narrowly spaced canine teeth, which is an adaptation to their preferred prey of small rodents, which have small vertebrae.[55] The premolar and first molar together compose the carnassial pair on each side of the mouth, which efficiently shears meat into small pieces, like a pair of scissors. These are vital in feeding, since cats' small molars cannot chew food effectively.[54]:37
+Cats, like dogs, are digitigrades. They walk directly on their toes, with the bones of their feet making up the lower part of the visible leg.[56] Cats are capable of walking very precisely, because like all felines they directly register; that is, they place each hind paw (almost) directly in the print of the corresponding forepaw, minimizing noise and visible tracks. This also provides sure footing for their hind paws when they navigate rough terrain. Unlike most mammals, when cats walk, they use a "pacing" gait; that is, they move the two legs on one side of the body before the legs on the other side. This trait is shared with camels and giraffes. As a walk speeds up into a trot, a cat's gait will change to be a "diagonal" gait, similar to that of most other mammals (and many other land animals, such as lizards): the diagonally opposite hind and forelegs will move simultaneously.[57]
+Like almost all members of the Felidae family, cats have protractable and retractable claws.[58] In their normal, relaxed position the claws are sheathed with the skin and fur around the paw's toe pads. This keeps the claws sharp by preventing wear from contact with the ground and allows the silent stalking of prey. The claws on the forefeet are typically sharper than those on the hind feet.[59] Cats can voluntarily extend their claws on one or more paws. They may extend their claws in hunting or self-defense, climbing, kneading, or for extra traction on soft surfaces. Most cats have five claws on their front paws, and four on their rear paws.[60] The fifth front claw (the dewclaw) is proximal to the other claws. More proximally, there is a protrusion which appears to be a sixth "finger". This special feature of the front paws, on the inside of the wrists, is the carpal pad, also found on the paws of big cats and of dogs. It has no function in normal walking, but is thought to be an anti-skidding device used while jumping. Some breeds of cats are prone to polydactyly (extra toes and claws).[60] These are particularly common along the northeast coast of North America.[61]
+Physiology
+
+Normal physiological values[62]:330
+Body temperature	38.6 °C (101.5 °F)
+Heart rate	120–140 beats per minute
+Breathing rate	16–40 breaths per minute
+As cats are familiar and easily kept animals, their physiology has been particularly well studied; it generally resembles that of other carnivorous mammals but displays several unusual features probably attributable to cats' descent from desert-dwelling species.[35] For instance, cats are able to tolerate quite high temperatures: Humans generally start to feel uncomfortable when their skin temperature passes about 38 °C (100 °F), but cats show no discomfort until their skin reaches around 52 °C (126 °F),[54]:46 and can tolerate temperatures of up to 56 °C (133 °F) if they have access to water.[63]
+Cats conserve heat by reducing the flow of blood to their skin and lose heat by evaporation through their mouth. Cats have minimal ability to sweat, with glands located primarily in their paw pads,[64] and pant for heat relief only at very high temperatures[65] (but may also pant when stressed). A cat's body temperature does not vary throughout the day; this is part of cats' general lack of circadian rhythms and may reflect their tendency to be active both during the day and at night.[66]:1 Cats' feces are comparatively dry and their urine is highly concentrated, both of which are adaptations that allow cats to retain as much fluid as possible.[35] Their kidneys are so efficient that cats can survive on a diet consisting only of meat, with no additional water,[67] and can even rehydrate by drinking seawater.[66]:29[68]
+Cats are obligate carnivores: their physiology has evolved to efficiently process meat, and they have difficulty digesting plant matter.[35] In contrast to omnivores such as rats, which only require about 4% protein in their diet, about 20% of a cat's diet must be protein.[35] Cats are unusually dependent on a constant supply of the amino acid arginine, and a diet lacking arginine causes marked weight loss and can be rapidly fatal.[69] Another unusual feature is that the cat cannot produce taurine, with taurine deficiency causing macular degeneration, wherein the cat's retina slowly degenerates, causing irreversible blindness.[35] Since cats tend to eat all of their prey, they obtain minerals by digesting animal bones, and a diet composed only of meat may cause calcium deficiency.[35]
+A cat's gastrointestinal tract is adapted to meat eating, being much shorter than that of omnivores and having low levels of several of the digestive enzymes that are needed to digest carbohydrates.[70] These traits severely limit the cat's ability to digest and use plant-derived nutrients, as well as certain fatty acids.[70] Despite the cat's meat-oriented physiology, several vegetarian or vegan cat foods have been marketed that are supplemented with chemically synthesized taurine and other nutrients, in attempts to produce a complete diet. However, some of these products still fail to provide all the nutrients that cats require,[71] and diets containing no animal products pose the risk of causing severe nutritional deficiencies.[72]
+Cats do eat grass occasionally. Proposed explanations include that grass is a source of folic acid or dietary fiber.[73]
+Senses
+
+Main article: Cat senses
+
+
+An odd-eyed Turkish Van kitten
+Cats have excellent night vision and can see at only one sixth the light level required for human vision.[54]:43 This is partly the result of cat eyes having a tapetum lucidum, which reflects any light that passes through the retina back into the eye, thereby increasing the eye's sensitivity to dim light.[74] Another adaptation to dim light is the large pupils of cats' eyes. Unlike some big cats, such as tigers, domestic cats have slit pupils.[75] These slit pupils can focus bright light without chromatic aberration, and are needed since the domestic cat's pupils are much larger, relative to their eyes, than the pupils of the big cats.[75] Indeed, at low light levels a cat's pupils will expand to cover most of the exposed surface of its eyes.[76] However, domestic cats have rather poor color vision and (like most non-primate mammals) have only two types of cones, optimized for sensitivity to blue and yellowish green; they have limited ability to distinguish between red and green.[77] A 1993 paper found a response to mid-wavelengths from a system other than the rods which might be due to a third type of cone. However, this appears to be an adaptation to low light levels rather than representing true trichromatic vision.[78]
+Cats have excellent hearing and can detect an extremely broad range of frequencies. They can hear higher-pitched sounds than either dogs or humans, detecting frequencies from 55 Hz up to 79 kHz, a range of 10.5 octaves; while humans can only hear from 31 Hz up to 18 kHz, and dogs hear from 67 Hz to 44 kHz, which are both ranges of about 9 octaves.[79][80] Cats do not use this ability to hear ultrasound for communication but it is probably important in hunting,[81] since many species of rodents make ultrasonic calls.[82] Cat hearing is also extremely sensitive and is among the best of any mammal,[79] being most acute in the range of 500 Hz to 32 kHz.[83] This sensitivity is further enhanced by the cat's large movable outer ears (their pinnae), which both amplify sounds and help a cat sense the direction from which a noise is coming.[81]
+
+
+Cats' whiskers are highly sensitive to touch.
+Cats have an acute sense of smell, which is due in part to their well-developed olfactory bulb and also to a large surface of olfactory mucosa, about 5.8 square centimetres (0.90 sq in) in area, which is about twice that of humans and only 1.7-fold less than the average dog.[84] Cats are very sensitive to pheromones such as 3-mercapto-3-methylbutan-1-ol,[85] which they use to communicate through urine spraying and marking with scent glands.[86] Cats also respond strongly to plants that contain nepetalactone, especially catnip, as they can detect that substance at less than one part per billion.[87] This response is also produced by other plants, such as silver vine (Actinidia polygama) and the herb valerian; it may be caused by the smell of these plants mimicking a pheromone and stimulating cats' social or sexual behaviors.[88]
+Cats have relatively few taste buds compared to humans. Domestic and wild cats share a gene mutation that keeps their sweet taste buds from binding to sugary molecules like carbohydrates, leaving them with no ability to taste sweetness.[89] Their taste buds instead respond to amino acids, bitter tastes and acids.[90]
+To aid with navigation and sensation, cats have dozens of movable vibrissae (whiskers) over their body, especially their face. These provide information on the width of gaps and on the location of objects in the dark, both by touching objects directly and by sensing air currents; they also trigger protective blink reflexes to protect the eyes from damage.[54]:47
+Health
+
+Main article: Cat health
+The average life expectancy for male indoor cats at birth is around 12 to 14 years,[91] with females usually living a year or two longer.[92] However, there have been reports of cats reaching into their 30s,[93] with the oldest known cat, Creme Puff, dying at a verified age of 38.[94] Feline life expectancy has increased significantly in recent decades.[95] Having a cat neutered confers some health benefits, since castrated males cannot develop testicular cancer, spayed females cannot develop uterine or ovarian cancer, and both have a reduced risk of mammary cancer.[96] The lifespan of feral cats is hard to determine accurately, although one study reported a median age of 4.7 years, with a range between 0 to 8.3 years.[97]
+Diseases
+Cats can suffer from a wide range of health problems, including infectious diseases, parasites, injuries and chronic disease. Vaccinations are available for many of these diseases, and domestic cats are regularly given treatments to eliminate parasites such as worms and fleas.
+Poisoning
+In addition to obvious dangers such as rodenticides, insecticides and herbicides, cats may be poisoned by many chemicals that are usually considered safe by their human guardians.[98] This is because their livers are less effective at some forms of detoxification than those of many other animals, including humans and dogs.[35][99] Some of the most common causes of poisoning in cats are antifreeze and rodent baits.[100] It has also been suggested that cats may be particularly sensitive to environmental pollutants.[98][101] When a cat has a sudden or prolonged serious illness without any obvious cause, it is possible that it has been exposed to a toxin.
+Many human medicines should never be given to cats. For example, the painkiller paracetamol (also called acetaminophen, sold as Tylenol and Panadol) is extremely toxic to cats: even very small doses need immediate treatment and can be fatal.[102][103] Even aspirin, which is sometimes used to treat arthritis in cats, is much more toxic to them than to humans[103] and must be administered cautiously.[98] Similarly, application of minoxidil (Rogaine) to the skin of cats, either accidentally or by well-meaning guardians attempting to counter loss of fur, has sometimes been fatal.[104] Essential oils can be toxic to cats and there have been reported cases of serious illnesses caused by tea tree oil, including flea treatments and shampoos containing it.[105]
+Other common household substances that should be used with caution around cats include mothballs and other naphthalene products.[98] Phenol-based products (e.g. Pine-Sol, Dettol (Lysol) or hexachlorophene)[98] are often used for cleaning and disinfecting near cats' feeding areas or litter boxes but these can sometimes be fatal.[106] Ethylene glycol, often used as an automotive antifreeze, is particularly appealing to cats, and as little as a teaspoonful can be fatal.[107] Some human foods are toxic to cats; for example chocolate can cause theobromine poisoning, although (unlike dogs) few cats will eat chocolate.[108] Large amounts of onions or garlic are also poisonous to cats.[98] Many houseplants are also dangerous,[109] such as Philodendron species and the leaves of the Easter lily (Lilium longiflorum), which can cause permanent and life-threatening kidney damage.[110]
+Behavior
+
+See also: Cat behavior, Cat communication, and Cat intelligence
+Free-ranging cats are active both day and night, although they tend to be slightly more active at night.[111][112] The timing of cats' activity is quite flexible and varied, which means that house cats may be more active in the morning and evening (crepuscular behavior), as a response to greater human activity at these times.[113] Although they spend the majority of their time in the vicinity of their home, housecats can range many hundreds of meters from this central point, and are known to establish territories that vary considerably in size, in one study ranging from 7 to 28 hectares (17 to 69 acres).[112]
+Cats conserve energy by sleeping more than most animals, especially as they grow older. The daily duration of sleep varies, usually 12–16 hours, with 13–14 being the average. Some cats can sleep as much as 20 hours in a 24-hour period. The term "cat nap" for a short rest refers to the cat's tendency to fall asleep (lightly) for a brief period. While asleep, cats experience short periods of rapid eye movement sleep often accompanied by muscle twitches, which suggests that they are dreaming.[114]
+Sociability
+
+
+Social grooming in a pair
+Although wildcats are solitary, the social behavior of domestic cats is much more variable and ranges from widely dispersed individuals to feral cat colonies that form around a food source, based on groups of co-operating females.[115][116] Within such groups one cat is usually dominant over the others.[36] Each cat in a colony holds a distinct territory, with sexually active males having the largest territories, which are about ten times larger than those of female cats and may overlap with several females' territories.[86] These territories are marked by urine spraying, by rubbing objects at head height with secretions from facial glands, and by defecation.[86] Between these territories are neutral areas where cats watch and greet one another without territorial conflicts. Outside these neutral areas, territory holders usually chase away stranger cats, at first by staring, hissing, and growling, and if that does not work, by short but noisy and violent attacks. Despite some cats cohabiting in colonies, cats do not have a social survival strategy, or a pack mentality and always hunt alone.[117]
+Domestic cats use many vocalizations for communication, including purring, trilling, hissing, growling/snarling, grunting, and several different forms of meowing.[7] By contrast, feral cats are generally silent.[118]:208 Their types of body language, including position of ears and tail, relaxation of whole body, and kneading of paws, are all indicators of mood. The tail and ears are particularly important social signal mechanisms in cats,[119][120] e.g. with a raised tail acting as a friendly greeting, and flattened ears indicating hostility. Tail-raising also indicates the cat's position in the group's social hierarchy, with dominant individuals raising their tails less often than subordinate animals.[120] Nose-to-nose touching is also a common greeting and may be followed by social grooming, which is solicited by one of the cats raising and tilting its head.[116]
+
+
+Domestic cat living together with an Alaskan Malamute dog
+However, some pet cats are poorly socialized. In particular, older cats may show aggressiveness towards newly arrived kittens, which may include biting and scratching; this type of behavior is known as Feline Asocial Aggression.[121]
+Even though cats and dogs are believed to be natural enemies, they can live together if correctly socialized.[122]
+For cats, life in proximity to humans and other animals kept by them amounts to a symbiotic social adaptation. They may express great affection towards their human (and even other) companions, especially if they psychologically imprint on them at a very young age and are treated with consistent affection.[citation needed] It has been suggested that, ethologically, the human keeper of a cat functions as a sort of surrogate for the cat's mother,[citation needed] and that adult housecats live their lives in a kind of extended kittenhood,[123] a form of behavioral neoteny. It has even been theorized[124] that the high-pitched sounds housecats make to solicit food may mimic the cries of a hungry human infant, making them particularly hard for humans to ignore.
+Grooming
+
+
+The hooked papillae on a cat's tongue act like a hairbrush to help clean and detangle fur.
+Cats are known for their cleanliness, spending many hours licking their coats.[125] The cat's tongue has backwards-facing spines about 500 micrometers long, which are called papillae. These are quite rigid, as they contain keratin.[126] These spines allow cats to groom themselves by licking their fur, with the rows of papillae acting like a hairbrush. Some cats, particularly longhaired cats, occasionally regurgitate hairballs of fur that have collected in their stomachs from grooming. These clumps of fur are usually sausage-shaped and about two to three centimeters long. Hairballs can be prevented with remedies that ease elimination of the hair through the gut, as well as regular grooming of the coat with a comb or stiff brush.[125] Some cats can develop a compulsive behavior known as psychogenic alopecia, or excessive grooming.[127][clarification needed]
+Fighting
+Among domestic cats, males are more likely to fight than females.[128] Among feral cats, the most common reason for cat fighting is competition between two males to mate with a female. In such cases, most fights will be won by the heavier male.[129] Another common reason for fighting in domestic cats is the difficulty of establishing territories within a small home.[128] Female cats will also fight over territory or to defend their kittens. Neutering will decrease or eliminate this behavior in many cases, suggesting that the behavior is linked to sex hormones.[citation needed]
+
+
+Cats intimidate opponents by arching their backs, raising their fur, turning sideways, and hissing.
+When fighting, cats make themselves appear more impressive and threatening by raising their fur, arching their backs, and turning sideways, thus increasing their apparent size.[119] Often, the ears are pointed down and back to avoid damage to the inner ear and potentially listen for any changes behind them while focused forward. They may also vocalize loudly and bare their teeth in an effort to further intimidate their opponent. Fights usually consist of grappling and delivering powerful slaps to the face and body with the forepaws as well as bites. Cats will also throw themselves to the ground in a defensive posture to rake their opponent's belly with their powerful hind legs.[130]
+Serious damage is rare as the fights are usually short in duration, with the loser running away with little more than a few scratches to the face and ears. However, fights for mating rights are typically more severe and injuries may include deep puncture wounds and lacerations. Normally, serious injuries from fighting will be limited to infections of scratches and bites, though these can occasionally kill cats if untreated. In addition, bites are probably the main route of transmission of feline immunodeficiency virus (FIV).[131] Sexually active males will usually be involved in many fights during their lives, and often have decidedly battered faces with obvious scars and cuts to the ears and nose.
+Hunting and feeding
+
+
+A cat that has caught a mouse.
+Cats hunt small prey, primarily birds and rodents,[132] and are often used as a form of pest control.[133][134] Domestic cats are a major predator of wildlife in the United States killing an estimated 1.4–3.7 billion birds and 6.9–20.7 billion mammals annually.[135][136] The bulk of the predation the United States is done by 80 million feral and stray cats. Effective measures to reduce this population are elusive, meeting opposition from cat enthusiasts.[135][136] In the case of free ranging pets, equipping cats with bells and not letting them out at night will reduce wildlife predation.[132] Feral cats and house cats that are free-fed tend to consume many small meals in a single day, although the frequency and size of meals varies between individuals.[117] Cats use two hunting strategies, either stalking prey actively, or waiting in ambush until an animal comes close enough to be captured. Although it is not certain, the type of strategy used may depend on the prey species in the area, with for example, cats waiting in ambush outside burrows, but tending to actively stalk birds.[137]:153
+Most breeds of cat have a noted fondness for settling in high places, or perching. In the wild, a higher place may serve as a concealed site from which to hunt; domestic cats may strike prey by pouncing from such a perch as a tree branch, as does a leopard.[138][clarification needed] Other possible explanations include that height gives the cat a better observation point, allowing it to survey its territory. During a fall from a high place, a cat can reflexively twist its body and right itself using its acute sense of balance and flexibility.[139][clarification needed] This is known as the cat righting reflex. An individual cat always rights itself in the same way, provided it has the time to do so, during a fall. The height required for this to occur is around 90 cm (3 feet). Cats without a tail (e.g. Manx cats) also have this ability, since a cat mostly moves its hind legs and relies on conservation of angular momentum to set up for landing, and the tail is in fact little used for this feat.[140] This leads to the proverb "a cat always lands on its feet".
+One poorly understood element of cat hunting behavior is the presentation of prey to human guardians. Ethologist Paul Leyhausen proposed that cats adopt humans into their social group, and share excess kill with others in the group according to the local pecking order, in which humans are placed at or near the top.[141] Anthropologist and zoologist Desmond Morris, in his 1986 book Catwatching, suggests that when cats bring home mice or birds, they are attempting to teach their human to hunt, or trying to help their human as if feeding "an elderly cat, or an inept kitten".[142][clarification needed] Morris's theory is inconsistent with the fact that male cats also bring home prey, despite males having no involvement with raising kittens.[137]:153
+Domestic cats select food based on its temperature, smell and texture, strongly disliking chilled foods and responding most strongly to moist foods rich in amino acids, which are similar to meat.[72][117] Cats may reject novel flavors (a response termed neophobia) and learn quickly to avoid foods that have tasted unpleasant in the past.[117] They may also avoid sugary foods and milk; since they are lactose intolerant, these sugars are not easily digested and may cause soft stools or diarrhea.[117][143] They can also develop odd eating habits. Some cats like to eat or chew on other things, most commonly wool, but also plastic, paper, string, aluminum foil/Christmas tree tinsel, or even coal. This condition is called pica and can threaten their health, depending on the amount and toxicity of the items eaten.[144][145]
+Since cats cannot fully close their lips around something to create suction, they use a lapping method with the tongue to draw liquid upwards into their mouths. Lapping at a rate of four times a second, the cat touches the smooth tip of its tongue to the surface of the water, and quickly retracts it, drawing water upwards.[146]
+Play
+Main article: Cat play and toys
+File:Play fight between cats.webmhd.webm 
+
+Play fight between kittens, age 14 weeks.
+Domestic cats, especially young kittens, are known for their love of play. This behavior mimics hunting and is important in helping kittens learn to stalk, capture, and kill prey.[147] Cats will also engage in play fighting, with each other and with humans. This behavior may be a way for cats to practice the skills needed for real combat, and might also reduce any fear they associate with launching attacks on other animals.[148]
+Owing to the close similarity between play and hunting, cats prefer to play with objects that resemble prey, such as small furry toys that move rapidly, but rapidly lose interest (they become habituated) in a toy they have played with before.[149] Cats also tend to play with toys more when they are hungry.[150] String is often used as a toy, but if it is eaten it can become caught at the base of the cat's tongue and then move into the intestines, a medical emergency which can cause serious illness, even death.[151] Owing to the risks posed by cats eating string, it is sometimes replaced with a laser pointer's dot, which cats may chase.[152] While concerns have been raised about the safety of these lasers, John Marshall, an ophthalmologist at St Thomas' Hospital, has stated that it would be "virtually impossible" to blind a cat with a laser pointer.[153][clarification needed]
+Reproduction
+
+
+When cats mate, the tomcat (male) bites the scruff of the female's neck as she assumes a position conducive to mating known as lordosis behavior.
+See also: Kitten
+Female cats are seasonally polyestrous, which means they may have many periods of heat over the course of a year, the season beginning in spring and ending in late autumn. Heat periods occur about every two weeks and last about 4 to 7 days.[154] Multiple males will be attracted to a female in heat. The males will fight over her, and the victor wins the right to mate. At first, the female will reject the male, but eventually the female will allow the male to mate. The female will utter a loud yowl as the male pulls out of her. This is because a male cat's penis has a band of about 120–150 backwards-pointing penile spines, which are about one millimeter long;[155] upon withdrawal of the penis, the spines rake the walls of the female's vagina, which is a trigger for ovulation. This act also occurs to clear the vagina of other sperm in the context of a second (or more) mating, thus giving the later males a larger chance of conception.[citation needed]
+After mating, the female will wash her vulva thoroughly. If a male attempts to mate with her at this point, the female will attack him. After about 20 to 30 minutes, once the female is finished grooming, the cycle will repeat.[154]
+Because ovulation is not always triggered by a single mating, females may not be impregnated by the first male with which they mate.[156] Furthermore, cats are superfecund; that is, a female may mate with more than one male when she is in heat, with the result that different kittens in a litter may have different fathers.[154]
+
+
+A newborn kitten
+At 124 hours post conception the morula forms. At 148 hours early blastocysts form. 10-12 Days implantation occurs.[157][158]
+The gestation period for cats is between 64–67 days, with an average length of 66 days.[159] The size of a litter averages three to five kittens, with the first litter usually smaller than subsequent litters. Kittens are weaned at between six and seven weeks, and cats normally reach sexual maturity at 5–10 months (females) and to 5–7 months (males), although this can vary depending on breed.[154] Females can have two to three litters per year, so may produce up to 150 kittens in their breeding span of around ten years.[154]
+Cats are ready to go to new homes at about 12 weeks old,[160] or when they are ready to leave their mother. Cats can be surgically sterilized (spayed or castrated) as early as 7 weeks to limit unwanted reproduction.[161] This surgery also prevents undesirable sex-related behavior, such as aggression, territory marking (spraying urine) in males and yowling (calling) in females. Traditionally, this surgery was performed at around six to nine months of age, but it is increasingly being performed prior to puberty, at about three to six months.[162] In the US approximately 80% of household cats are neutered.[163]
+Vocalizations
+Main article: Cat communication
+The cat is a very vocal animal. Known for its trademark purring, it also produces a wide variety of other sounds.
+The mechanism by which cats purr is elusive. The cat has no unique anatomical feature that is clearly responsible for the sound.[164] It was, until recent times, believed that only the cats of the Felis genus could purr. However, felids of the Panthera genus (tiger, lion, jaguar and leopard) also produce sounds similar to purring, but only when exhaling.[165]
+Ecology
+
+Habitats
+
+
+A black cat in snowy weather.
+Cats are a cosmopolitan species and are found across much of the world.[38] Geneticist Stephen James O'Brien, of the National Cancer Institute in Frederick, Maryland, remarked on how successful cats have been in evolutionary terms: "Cats are one of evolution's most charismatic creatures. They can live on the highest mountains and in the hottest deserts."[166] They are extremely adaptable and are now present on all continents except Antarctica, and on 118 of the 131 main groups of islands—even on sub-Antarctic islands such as the Kerguelen Islands.[167][168]
+Feral cats can live in forests, grasslands, tundra, coastal areas, agricultural land, scrublands, urban areas and wetlands.[169] Their habitats even include small oceanic islands with no human inhabitants.[170] This ability to thrive in almost any terrestrial habitat has led to the cat's designation as one of the world's worst invasive species.[171] Despite this general adaptability, the close relatives of domestic cats, the African wildcat (Felis silvestris lybica) and the Arabian sand cat (Felis margarita) both inhabit desert environments,[4] and domestic cats still show similar adaptations and behaviors.[35]
+Impact on prey species
+
+
+Feral cat carrying a rabbit prey.
+To date, there are few scientific data available to assess the impact of cat predation on prey populations. Even well-fed domestic cats may hunt and kill, mainly catching small mammals, but also birds, amphibians, reptiles, fish and invertebrates.[132][172] Hunting by domestic cats may be contributing to the decline in the numbers of birds in urban areas, although the importance of this effect remains controversial.[173] In the wild, the introduction of feral cats during human settlement can threaten native species with extinction.[170] In many cases controlling or eliminating the populations of non-native cats can produce a rapid recovery in native animals.[174] However, the ecological role of introduced cats can be more complicated. For example, cats can control the numbers of rats, which also prey on birds' eggs and young, so a cat population can protect an endangered bird species by suppressing mesopredators.[175]
+In the Southern Hemisphere, cats are a particular problem in landmasses such as Australasia, where cat species have never been native and there were few equivalent native medium-sized mammalian predators.[176] Native species such as the New Zealand Kakapo and the Australian Bettong, for example, tend to be more ecologically vulnerable and behaviorally "naive" to predation by feral cats.[177] Feral cats have had a major impact on these native species and have played a leading role in the endangerment and extinction of many animals.[178]
+Cat numbers in the UK are growing and their abundance is far above the "natural" carrying capacity, because their population sizes are independent of their prey's dynamics: i.e. cats are "recreational" hunters, with other food sources.[179] Population densities can be as high as 2,000 individuals per km2[180] and the trend is an increase of 0.5 million cats annually.
+Impact on birds
+
+
+Eating a house sparrow.
+The domestic cat is probably a significant predator of birds. UK assessments indicate that they may be accountable for an estimated 64.8 million bird deaths each year.[132] Certain species appear more susceptible than others; for example, 30% of house sparrow mortality is linked to the domestic cat.[181] In the recovery of ringed robins (Erithacus rubecula) and dunnocks (Prunella modularis), it was also concluded that 31% of deaths were a result of cat predation.[182] The presence of larger carnivores such as coyotes which prey on cats and other small predators reduces the effect of predation by cats and other small predators such as opossums and raccoons on bird numbers and variety.[183] The proposal that cat populations will increase when the numbers of these top predators decline is called the mesopredator release hypothesis. However a new study suggests that cats are a much greater menace than previously thought and that feral cats kill several billion birds each year in the United States.[184]
+On islands, birds can contribute as much as 60% of a cat's diet.[185] In nearly all cases, however, the cat cannot be identified as the sole cause for reducing the numbers of island birds, and in some instances eradication of cats has caused a ‘mesopredator release’ effect;[186] where the suppression of top carnivores creates an abundance of smaller predators that cause a severe decline in their shared prey. Domestic cats are, however, known to be a contributing factor to the decline of many species; a factor that has ultimately led, in some cases, to extinction. The South Island Piopio, Chatham Islands Rail,[182] the Auckland Islands Merganser,[187] and the common diving petrel[188] are a few from a long list, with the most extreme case being the flightless Stephens Island Wren, which was driven to extinction only a few years after its discovery.[189][190]
+Some of the same factors that have promoted adaptive radiation of island avifauna over evolutionary time appear to promote vulnerability to non-native species in modern time. The susceptibility inherent of many island birds is undoubtedly due to evolution in the absence of mainland predators, competitors, diseases and parasites. In addition to lower reproductive rates and extended incubation periods.[191] The loss of flight, or reduced flying ability is also characteristic of many island endemics.[192] These biological aspects have increased vulnerability to extinction in the presence of introduced species, such as the domestic cat.[193] Equally, behavioral traits exhibited by island species, such as "predatory naivety"[194] and ground-nesting,[191] have also contributed to their susceptibility.
+Cats and humans
+
+Main article: Cats and humans
+Cats are common pets in Europe and North America, and their worldwide population exceeds 500 million.[9] Although cat guardianship has commonly been associated with women,[195] a 2007 Gallup poll reported that men and women were equally likely to own a cat.[196]
+According to the Humane Society of the United States, as well as being kept as pets, cats are also used in the international fur trade,[197] for making coats, gloves, hats, shoes, blankets and stuffed toys. About 24 cats are needed to make a cat fur coat.[198] This use has now been outlawed in several countries, including the United States, Australia and the European Union.[199] However, some cat furs are still made into blankets in Switzerland as folk remedies that are believed to help rheumatism.[200]
+Census
+There are approximately 220 million domestic cats in the world, according to the International Federation for Animal Health Europe (IFAH).[201]
+A few attempts to build a cat census have been made over the years, both through associations or national and international organization (such as the Canadian Federation of Humane Societies's one[202]) and over the net,[203][204] but such a task does not seem so simple to achieve.
+Feral cats
+
+Main article: Feral cat
+
+
+American feral farm cat
+Feral cats are domestic cats that were born in or have reverted to a wild state. They are unfamiliar with and wary of humans and roam freely in urban and rural areas.[8] The numbers of feral cats is not known, but estimates of the US feral population range from 25 to 60 million.[8] Feral cats may live alone, but most are found in large groups called feral colonies, which occupy a specific territory and are usually associated with a source of food.[205] Famous feral cat colonies are found in Rome around the Colosseum and Forum Romanum, with cats at some of these sites being fed and given medical attention by volunteers.[206]
+Public attitudes towards feral cats vary widely: ranging from seeing them as free-ranging pets, to regarding them as vermin.[207] One common approach to reducing the feral cat population is termed trap-neuter-return, where the cats are trapped, neutered, immunized against rabies and the feline leukemia virus, and then released. Before releasing them back into their feral colonies, the attending veterinarian often nips the tip off one ear to mark the feral as neutered and inoculated, since these cats may be trapped again. Volunteers continue to feed and give care to these cats throughout their lives. Given this support, their lifespan is increased, and behavior and nuisance problems caused by competition for food are reduced.[205]
+History and mythology
+
+Main articles: Cultural depictions of cats and Cats in ancient Egypt
+
+
+19th century drawing of a tabby cat
+Traditionally, historians tended to think that ancient Egypt was the site of cat domestication, owing to the clear depictions of house cats in Egyptian paintings about 3,600 years old.[4] However, in 2004, a Neolithic grave was excavated in Shillourokambos, Cyprus, that contained the skeletons, laid close to one another, of both a human and a cat. The grave is estimated to be 9,500 years old, pushing back the earliest known feline–human association significantly.[11][208][209] The cat specimen is large and closely resembles the African wildcat (Felis silvestris lybica), rather than present-day domestic cats. This discovery, combined with genetic studies, suggest that cats were probably domesticated in the Middle East, in the Fertile Crescent around the time of the development of agriculture and then they were brought to Cyprus and Egypt.[4]
+Direct evidence for the domestication of cats 5,300 years ago in Quanhucun in China has been published by researchers. The cats are believed to have been attracted to the village by rodents which in turn were attracted by grain cultivated and stored by humans.[210]
+In ancient Egypt cats were sacred animals, with the goddess Bastet often depicted in cat form, sometimes taking on the warlike aspect of a lioness.[211]:220 The Romans are often credited with introducing the domestic cat from Egypt to Europe;[211]:223 in Roman Aquitaine, a 1st or 2nd century epitaph of a young girl holding a cat is one of two earliest depictions of the Roman domesticated cat.[212] However, it is possible that cats were already kept in Europe prior to the Roman Empire, as they may have already been present in Britain in the late Iron Age.[41] Domestic cats were spread throughout much of the rest of the world during the Age of Discovery, as they were carried on sailing ships to control shipboard rodents and as good-luck charms.[211]:223
+Several ancient religions believed that cats are exalted souls, companions or guides for humans, that they are all-knowing but are mute so they cannot influence decisions made by humans. In Japan, the maneki neko is a cat that is a symbol of good fortune. Although there are no sacred species in Islam, cats are revered by Muslims. Some writers have stated that Muhammad had a favorite cat, Muezza.[213] He is reported to have loved cats so much that "he would do without his cloak rather than disturb one that was sleeping on it".[214]
+Freyja—the goddess of love, beauty, and fertility in Norse mythology—is depicted as riding a chariot drawn by cats.
+Many cultures have negative superstitions about cats. An example would be the belief that a black cat "crossing one's path" leads to bad luck, or that cats are witches' familiars used to augment a witch's powers and skills. The killing of cats in Medieval Ypres, Belgium is commemorated in the innocuous present-day Kattenstoet (cat parade).[citation needed]
+According to a myth in many cultures, cats have multiple lives. In many countries, they are believed to have nine lives, but in Italy, Germany, Greece and some Spanish-speaking regions they are said to have seven lives,[215] while in Turkish and Arabic traditions the number of lives is six.[216] The myth is attributed to the natural suppleness and swiftness cats exhibit to escape life-threatening situations.[217] Also lending credence to this myth is the fact that falling cats often land on their feet, using an instinctive righting reflex to twist their bodies around. Nonetheless, cats can still be injured or killed by a high fall.[218]
+See also
+
+Book icon	
+Book: Cat
+Portal icon	Cats portal
+Portal icon	Mammals portal
+Animal testing on cats
+Animal track
+Cancer in cats
+Cat lady
+Cat years
+List of cat breeds
+List of cats
+List of fictional cats
+Lolcat
+Pet door including cat flap
+Pet first aid
+Popular cat names
+Cats by location
+Cats in ancient Egypt
+Cats in Australia
+Cats in New Zealand
+Cats in the United States
+References
+
+^ Jump up to: a b c d e f g Wozencraft, W. C. (2005). "Species Felis catus". In Wilson, D. E.; Reeder, D. M. Mammal Species of the World (3rd ed.). Johns Hopkins University Press. pp. 534–535. ISBN 978-0-8018-8221-0. OCLC 62265494.
+^ Jump up to: a b c "ITIS Standard Report Page: Felis catus". ITIS Online Database. Reston, Virginia: Integrated Taxonomic Information System. 2011. Retrieved 14 December 2011.
+^ Jump up to: a b Linnaeus, Carolus (1766) [1758]. Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis (in (Latin)) 1 (12th ed.). Holmiae (Laurentii Salvii). p. 62. Retrieved 2 April 2008.
+^ Jump up to: a b c d e f g h i j Driscoll, C. A.; MacDonald, D. W.; O'Brien, Stephen J. (2009). "In the Light of Evolution III: Two Centuries of Darwin Sackler Colloquium: From Wild Animals to Domestic Pets – An Evolutionary View of Domestication". Proceedings of the National Academy of Sciences of the United States of America 106 (S1): 9971–9978. Bibcode:2009PNAS..106.9971D. doi:10.1073/pnas.0901586106. PMC 2702791. PMID 19528637.
+Jump up ^ "ITIS Standard Report Page: Felis catus domestica". op. cit. Retrieved 14 December 2011.
+Jump up ^ "Housecat". American Heritage Dictionary of the English Language (Education.Yahoo.com online ed.) (Boston: Houghton Mifflin). 2010. Retrieved 6 October 2010.
+^ Jump up to: a b Moelk, Mildred (April 1944). "Vocalizing in the House-cat; A Phonetic and Functional Study". The American Journal of Psychology 57 (2): 184–205. doi:10.2307/1416947. JSTOR 1416947.
+^ Jump up to: a b c Rochlitz, Irene (2007). The Welfare of Cats. "Animal Welfare" series. Berlin: Springer. pp. 141–175. ISBN 1-4020-6143-9.
+^ Jump up to: a b c Wade, Nicholas (29 June 2007). "Study Traces Cat's Ancestry to Middle East". New York Times (New York: NYTC). Retrieved 2 April 2008.
+Jump up ^ {{ |title=Early taming of the cat in Cyprus, J.-D. Vigne, J. Guilaine, K. Debue, L. Haye, and P. Gérard |url= http://www.ncbi.nlm.nih.gov/pubmed/15073370 |work=Science Magazine Vol. 304 no. 5668 p. 259 |date=9 April 2004}}
+^ Jump up to: a b "Oldest Known Pet Cat? 9500-year-old Burial Found on Cyprus". National Geographic News. National Geographic Society. 8 April 2004. Retrieved 6 March 2007.
+Jump up ^ Driscoll, Carlos A.; Clutton-Brock, Juliet; Kitchener, Andrew C.; O'Brien, Stephen J. (10 June 2009). "The Evolution of House Cats". Scientific American. New York: Nature Pubg. Group. Retrieved 26 August 2009.
+^ Jump up to: a b c Bradshaw; Horsfield, G. F.; Allen, J. A.; Robinson, I. H. (1999). "Feral Cats: Their Role in the Population Dynamics of Felis catus". Applied Animal Behaviour Science 65 (3): 273–283. doi:10.1016/S0168-1591(99)00086-6.
+Jump up ^ McKnight, George H. (1923). English Words and Their Background. New York: D. Appleton and Company  – via Questia (subscription required). p. 130.
+Jump up ^ "Cat". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ Jean-Paul Savignac, Dictionnaire français-gaulois, s.v. "chat" (Paris: Errance, 2004), 82.
+Jump up ^ "Puss". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ Webster's Encyclopedic Unabridged Dictionary of the English Language. New York: Gramercy Books, 1996, p. 1571.
+Jump up ^ "What do you call a group of ...?". Oxford Dictionaries Online. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Tom cat, tom-cat". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Gib, n.2". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Queen cat". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Sire". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Dam, n.2". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ "Catling". The Oxford English Dictionary. Oxford University Press. Retrieved 1 October 2012.
+Jump up ^ Johnson, Warren; O'Brien, Stephen J. (1997). "Phylogenetic Reconstruction of the Felidae Using 16S rRNA and NADH-5 Mitochondrial Genes". Journal of Molecular Evolution 44 (0): S98–S116. doi:10.1007/PL00000060. PMID 9071018.
+Jump up ^ "ITIS Standard Report Page: Felis". ITIS Online Database. Retrieved 14 December 2011.
+Jump up ^ Stefoff, Rebecca (November 2003). Cats. New York: Benchmark Books. p. 34. ISBN 0-7614-1577-7.
+Jump up ^ Johnson, Warren E.; Eizirik, E.; Pecon-Slattery, J.; Murphy, W. J.; Antunes, A.; Teeling, E.; O'Brien, Stephen J. (2006). "The Late Miocene Radiation of Modern Felidae: A Genetic Assessment". Science 311 (5757): 73–77. Bibcode:2006Sci...311...73J. doi:10.1126/science.1122277. PMID 16400146.
+^ Jump up to: a b c Mattern, Michelle Y.; McLennan, Deborah A. (2000). "Phylogeny and Speciation of Felids". Cladistics 16 (2): 232–253. doi:10.1111/j.1096-0031.2000.tb00354.x.
+Jump up ^ Masuda, R.; Lopez, J. V.; Slattery, J. P.; Yuhki, N.; O'Brien, Stephen J. (1996). "Molecular Phylogeny of Mitochondrial Cytochrome b and 12S rRNA Sequences in the Felidae: Ocelot and Domestic Cat Lineages". Molecular Phylogenetics and Evolution 6 (3): 351–365. doi:10.1006/mpev.1996.0085. PMID 8975691.
+^ Jump up to: a b Oliveira, R.; Godinho, R.; Randi, E.; Alves, P. C. (2008). "Hybridization Versus Conservation: Are Domestic Cats Threatening the Genetic Integrity of Wildcats (Felis silvestris silvestris) in Iberian Peninsula?". Philos. Trans. R. Soc. Lond., B, Biol. Sci. 363 (1505): 295329861. doi:10.1098/rstb.2008.0052. PMC 2606743. PMID 18522917.
+^ Jump up to: a b c Wozencraft, W. C. (2005). "Species Felis silvestris". In Wilson, D. E.; Reeder, D. M. Mammal Species of the World (3rd ed.). Johns Hopkins University Press. pp. 536–537. ISBN 978-0-8018-8221-0. OCLC 62265494.
+^ Jump up to: a b "Opinion 2027". Bulletin of Zoological Nomenclature (International Commission on Zoological Nomenclature (ICZN)) 60. 2003. Archived from the original on 9 June 2011.
+^ Jump up to: a b c d e f g h i MacDonald, M. L.; Rogers, Q. R.; Morris, J. G. (1984). "Nutrition of the domestic cat, a mammalian carnivore". Annual Review of Nutrition 4: 521–562. doi:10.1146/annurev.nu.04.070184.002513. PMID 6380542.
+^ Jump up to: a b Baron, Alan; Stewart, C. N.; Warren, J. M. (1 January 1957). "Patterns of Social Interaction in Cats (Felis domestica)". Behaviour 11 (1): 56–66. doi:10.1163/156853956X00084. JSTOR 4532869.
+Jump up ^ Vella, Carolyn M.; Shelton, Lorraine M.; McGonagle, John J.; Stanglein, Terry W. (1999). Robinson's Genetics for Cat Breeders and Veterinarians (4th ed.). Butterworth-Heinemann. p. 3. ISBN 0-7506-4069-3.
+^ Jump up to: a b Lipinski, Monika J.; Froenicke, Lutz; Baysac, Kathleen C.; Billings, Nicholas C.; Leutenegger, Christian M.; Levy, Alon M.; Longeri, Maria; Niini, Tirri; Ozpinar, Haydar (January 2008). "The Ascent of Cat Breeds: Genetic Evaluations of Breeds and Worldwide Random-bred Populations". Genomics 91 (1): 12–21. doi:10.1016/j.ygeno.2007.10.009. PMC 2267438. PMID 18060738.
+^ Jump up to: a b c Cameron-Beaumont, Charlotte; Lowe, Sarah E.; Bradshaw, John W. S. (2002). "Evidence Suggesting Pre-adaptation to Domestication throughout the Small Felidae". Biological Journal of the Linnean Society 75 (3): 361–366. doi:10.1046/j.1095-8312.2002.00028.x. Retrieved 29 September 2009.
+Jump up ^ Fogle, Bruce (ed.) (1981). Interrelations Between People and Pets. Charles C. Thomas Publications. ISBN 0-398-04169-5.
+^ Jump up to: a b O'Connor, T. P. (2007). "Wild or Domestic? Biometric Variation in the Cat Felis silvestris". International Journal of Osteoarchaeology 17 (6): 581–595. doi:10.1002/oa.913.
+Jump up ^ "Catalogue of the Specimens of Caucasian Large Mammalian Fauna in the Collection of The National Museum of Georgia". Caucasian-large-mammalian.narod.ru. Retrieved 2013-07-04.
+Jump up ^ Nie, W.; Wang, J.; O'Brien, P. C. (2002). "The Genome Phylogeny of Domestic Cat, Red Panda and Five Mustelid Species Revealed by Comparative Chromosome Painting and G-banding". Chromosome Research 10 (3): 209–222. doi:10.1023/A:1015292005631. PMID 12067210.
+Jump up ^ Pontius, J. U.; Mullikin, J. C.; Smith, D. R.; et. al (2007). "Initial Sequence and Comparative Analysis of the Cat Genome". Genome Research 17 (11): 1675–89. doi:10.1101/gr.6380007. PMC 2045150. PMID 17975172.
+Jump up ^ O'Brien, Stephen J.; Johnson, W.; Driscoll, C.; Pontius, J.; Pecon-Slattery, J.; Menotti-Raymond, M. (2008). "State of Cat Genomics". Trends in Genetics 24 (6): 268–279. doi:10.1016/j.tig.2008.03.004. PMID 18471926.
+Jump up ^ Sewell, A. C.; Haskins, M. E.; Giger, U. (2007). "Inherited Metabolic Disease in Companion Animals: Searching for Nature's Mistakes". Veterinary Journal 174 (2): 252–259. doi:10.1016/j.tvjl.2006.08.017. PMC 3132193. PMID 17085062.
+Jump up ^ O'Brien, Stephen J.; Menotti-Raymond, M.; Murphy, W. J.; Yuhki, N. (2002). "The Feline Genome Project". Annual Review of Genetics 36: 657–686. doi:10.1146/annurev.genet.36.060602.145553. PMID 12359739.
+Jump up ^ Hartwell, Sarah (2002–2011 [copyright date]). "Dwarf, Midget and Miniature Cats (Including 'Tea-cup' Cats)". MessyBeast.com. self-published. Retrieved 6 March 2007. [self-published source]
+^ Jump up to: a b Wilson, Julia (2002–2008 [copyright date]). "Cat World Records". Cat-World.com.au. self-published. Archived from the original on 1 August 2008. Retrieved 7 September 2012. [self-published source][self-published source]
+Jump up ^ "Feline Veterinary care by The Boston Cat Hospital/Feline Fast Cats". The Boston Cat Hospital. Retrieved 2013-01-10.
+Jump up ^ "Domestic Cat". Animal Bytes. SeaWorld Parks and Entertainment. 2011. Retrieved 14 December 2011. This is a tertiary source that clearly includes information from other sources and names them, but does not cite them in detail.
+^ Jump up to: a b Walker, Warren F. (1982). Study of the Cat with Reference to Human Beings (4th Revised ed.). Thomson Learning. ISBN 0-03-057914-7.
+Jump up ^ Gillis, Rick (ed.) (22 July 2002). "Cat Skeleton". Zoolab: A Website for Animal Biology. La Crosse, WI: University of Wisconsin. Archived from the original on 6 December 2006. Retrieved 7 September 2012.
+^ Jump up to: a b c d e *Case, Linda P. (2003). The Cat: Its Behavior, Nutrition, and Health. Ames, IA: Iowa State University Pr. ISBN 0-8138-0331-4.
+^ Jump up to: a b Smith, Patricia; Tchernov, Eitan (1992). Structure, Function and Evolution of teeth. Freund Publishing House Ltd. p. 217. ISBN 965-222-270-4.
+Jump up ^ Lacquaniti, F.; Grasso, R.; Zago, M. (1 August 1999). "Motor Patterns in Walking". News Physiol. Sci. 14 (4): 168–174. PMID 11390844.
+Jump up ^ Christensen, Wendy (2004). Outwitting Cats. Globe Pequot. p. 23. ISBN 1-59228-240-7.
+Jump up ^ Russell, Anthony P.; Bryant, Harold N. (2001). "Claw Retraction and Protraction in the Carnivora: The Cheetah (Acinonyx Jubatus) as an Atypical Felid". Journal of Zoology 254 (1): 67–76. doi:10.1017/S0952836901000565.
+Jump up ^ Armes, Annetta F. (22 December 1900). "Outline of Cat Lessons". The School Journal (E. L. Kellogg & Co) LXI: 659. Retrieved 12 November 2007.
+^ Jump up to: a b Danforth, C. H. (1947). "Heredity of Polydactyly in the Cat". Journal of Heredity 38 (4): 107–112. PMID 20242531.
+Jump up ^ Lettice, Laura A.; Hill, A. E.; Devenney, P. S.; Hill, R. E. (2008). "Point Mutations in a Distant Sonichedgehog Cis-regulator Generate a Variable Regulatory Output Responsible for Preaxial Polydactyly". Human Molecular Genetics 17 (7): 978–985. doi:10.1093/hmg/ddm370. PMID 18156157.
+Jump up ^ Kahn, Cynthia M.; Line, Scott (2007). Hollander, Joseph Lee, ed. The Merck/Merial Manual for Pet Health. Merck. ISBN 0-911910-99-9.
+Jump up ^ Subcommittee on Dog and Cat Nutrition (2006). Nutrient Requirements of Dogs and Cats. Washington, DC: National Academies Press. p. 292. ISBN 0-309-08628-0.
+Jump up ^ "How do cats sweat?". Cat Health,com. Retrieved 24 February 2014.
+Jump up ^ Adams, T.; Morgan, M. L.; Hunter, W. S.; Holmes, K. R. (1970). "Temperature Regulation of the Unanesthetized Cat During Mild Cold and Severe Heat Stress". Journal of Applied Physiology 29 (6): 852–858. PMID 5485356.
+^ Jump up to: a b Committee on Animal Nutrition (1986). Nutrient Requirements of Cats (2nd ed.). National Academy Pr.
+Jump up ^ Prentiss, Phoebe G. (1959). "Hydropenia in Cat and Dog: Ability of the Cat to Meet its Water Requirements Solely from a Diet of Fish or Meat". American Journal of Physiology 196 (3): 625–632. PMID 13627237.
+Jump up ^ Wolf, A. V. (1959). "Potability of Sea Water with Special Reference to the Cat". American Journal of Physiology 196 (3): 633–641. PMID 13627238.
+Jump up ^ Morris, J. G.; Rogers, Q. R. (1 December 1978). "Arginine: An Essential Amino Acid for the Cat". Journal of Nutrition 108 (12): 1944–1953. PMID 722344.
+^ Jump up to: a b Zoran, D. L. (2002). "The Carnivore Connection to Nutrition in Cats". Journal of the American Veterinary Medical Association 221 (11): 1559–1567. doi:10.2460/javma.2002.221.1559. PMID 12479324.[dead link]
+Jump up ^ Gray, C. M.; Sellon, R. K.; Freeman, L. M. (2004). "Nutritional Adequacy of Two Vegan Diets for Cats". Journal of the American Veterinary Medical Association 225 (11): 1670–1675. doi:10.2460/javma.2004.225.1670. PMID 15626215.
+^ Jump up to: a b Zaghini, G.; Biagi, G. (2005). "Nutritional Peculiarities and Diet Palatability in the Cat". Vet. Res. Commun. 29 (Supplement 2): 39–44. doi:10.1007/s11259-005-0009-1. PMID 16244923.
+Jump up ^ "Cat Health 101: Why Do Cats Eat Grass?". AnimalPlanet.com. 16 November 2011. Retrieved 13 August 2012.
+Jump up ^ Ollivier, F. J.; Samuelson, D. A.; Brooks, D. E.; Lewis, P. A.; Kallberg, M. E.; Komaromy, A. M. (2004). "Comparative Morphology of the Tapetum Lucidum (among Selected Species)". Veterinary Ophthalmology 7 (1): 11–22. doi:10.1111/j.1463-5224.2004.00318.x. PMID 14738502.
+^ Jump up to: a b Malmström T, Kröger RH (2006). "Pupil shapes and lens optics in the eyes of terrestrial vertebrates". J. Exp. Biol. 209 (Pt 1): 18–25. doi:10.1242/jeb.01959. PMID 16354774.
+Jump up ^ Hammond, P.; Mouat, G. S. V. (1985). "The relationship between feline pupil size and luminance". Experimental Brain Research 59 (3): 485–490. doi:10.1007/BF00261338.
+Jump up ^ Loop, M. S.; Bruce, L. L. (1978). "Cat Color Vision: The Effect of Stimulus Size". Science 199 (4334): 1221–1222. Bibcode:1978Sci...199.1221L. doi:10.1126/science.628838. PMID 628838.
+Jump up ^ Schneider, H.; Beller, F. K. (1 April 1993). "The Spectral Sensitivity of Dark- and Light-adapted Cat Retinal Ganglion Cells". Journal of Neuroscience 13 (4): 1543–1550. PMID 8463834.
+^ Jump up to: a b Heffner, Rickye S. (November 2004). "Primate Hearing from a Mammalian Perspective". The Anatomical Record. Part A, Discoveries in Molecular, Cellular, and Evolutionary Biology 281 (1): 1111–1122. doi:10.1002/ar.a.20117. PMID 15472899. Archived from the original on 19 September 2006. Retrieved 20 August 2009.
+Jump up ^ Heffner, Henry E. (May 1998). "Auditory Awareness". Applied Animal Behaviour Science 57 (3–4): 259–268. doi:10.1016/S0168-1591(98)00101-4.
+^ Jump up to: a b Sunquist, Melvin E.; Sunquist, Fiona (2002). Wild Cats of the World. University of Chicago Press. p. 10. ISBN 0-226-77999-8.
+Jump up ^ Blumberg, M. S. (1992). "Rodent ultrasonic short calls: locomotion, biomechanics, and communication". Journal of Comparative Psychology 106 (4): 360–365. doi:10.1037/0735-7036.106.4.360. PMID 1451418.
+Jump up ^ Heffner, Rickye S. (1985). "Hearing Range of the Domestic Cat". Hearing Research 19 (1): 85–88. doi:10.1016/0378-5955(85)90100-5. PMID 4066516. Retrieved 20 August 2009.
+Jump up ^ Moulton, David G. (1 August 1967). "Olfaction in Mammals". American Zoology 7 (3): 421–429. doi:10.1093/icb/7.3.421.
+Jump up ^ Miyazaki, M.; Yamashita, T; Suzuki, Y.; Saito, Y.; Soeta, S.; Taira, H.; Suzuki, A. (2006). "A Major Urinary Protein of the Domestic Cat Regulates the Production of Felinine, a Putative Pheromone Precursor". Chem. Biol. (PDF) 13 (10): 1071–1079. doi:10.1016/j.chembiol.2006.08.013. PMID 17052611.
+^ Jump up to: a b c Sommerville, B. A. (1998). "Olfactory Awareness". Applied Animal Behaviour Science 57 (3–4): 269–286. doi:10.1016/S0168-1591(98)00102-6.
+Jump up ^ Grognet, Jeff (June 1990). "Catnip: Its Uses and Effects, Past and Present". The Canadian Veterinary Journal 31 (6): 455–456. PMC 1480656. PMID 17423611.
+Jump up ^ Tucker, Arthur; Tucker, Sharon (1988). "Catnip and the catnip response". Economic Botany 42 (2): 214–231. doi:10.1007/BF02858923.
+Jump up ^ "Why Cats Can’t Taste Sweets". Petside. 2012-03-13. Retrieved 2013-01-11.
+Jump up ^ Bradshaw, John W. S. (1 July 2006). "The Evolutionary Basis for the Feeding Behavior of Domestic Dogs (Canis familiaris) and Cats (Felis catus)". Journal of Nutrition 136 (7): 1927S–1931. PMID 16772461.
+Jump up ^ Taylor, E. J.; Adams, C.; Neville, R. (1995). "Some Nutritional Aspects of Ageing in Dogs and Cats". Proceedings of the Nutrition Society 54 (3): 645–656. doi:10.1079/PNS19950064. PMID 8643702.
+Jump up ^ Poynter, Dan (2002). The Older Cat: Recognizing Decline and Extending Life (2nd ed.). Santa Barbara, CA: Para Publishing. p. 25. ISBN 1-56860-076-3. Retrieved 26 April 2012.
+Jump up ^ Example: "Me-wow! Texas Woman Says Cat is 30 Years Old – Although She Can't Hear or See Very Well, Caterack the Cat Is Still Purring". MSNBC.MSN.com. New York: Microsoft. 30 September 2009. Archived from the original on 2 October 2009. Retrieved 30 September 2009.
+Jump up ^ Guinness World Records (reprint ed.). Bantam. 2010. p. 320. ISBN 978-0-553-59337-2. "The oldest cat ever was Creme Puff, who was born on August 3, 1967 and lived until August 6, 2005 – 38 years and 3 days in total."
+Jump up ^ Kraft, W. (February 1998). "Geriatrics in Canine and Feline Internal Medicine". European Journal of Medical Research 3 (1–2): 31–41. ISSN 0949-2321. PMID 9512965.
+Jump up ^ "Cat Care: Spay–Neuter". ASPCA.org. New York: American Society for the Prevention of Cruelty to Animals. 2011. Retrieved 14 December 2011. This is a tertiary source that clearly includes information from other sources but does not name them.
+Jump up ^ Levy, J. K.; Gale, D. W.; Gale, L. A. (2003). "Evaluation of the Effect of a Long-term Trap–Neuter–Return and Adoption Program on a Free-roaming Cat Population". Journal of the American Veterinary Medical Association 222 (1): 42–46. doi:10.2460/javma.2003.222.42. PMID 12523478.[dead link]
+^ Jump up to: a b c d e f "Toxic to Cats". VetInfo.com. 2011. Retrieved 14 December 2011. This is a tertiary source that clearly includes information from other sources but does not name them.
+Jump up ^ Williams, R. T. (1 February 1978). "Species Variations in the Pathways of Drug Metabolism". Environmental Health Perspectives 22: 133–138. doi:10.2307/3428562. JSTOR 3428562. PMC 1637137. PMID 417918.
+Jump up ^ Rowland, J. (1987). "Incidence of Ethylene Glycol Intoxication in Dogs and Cats Seen at Colorado State University Veterinary Teaching Hospital". Vet Hum Toxicol 29 (1): 41–44. PMID 3824875.
+Jump up ^ Potera, C. (2007). "Chemical Exposures: Cats as Sentinel Species". Environmental Health Perspectives 115 (12): A580. doi:10.1289/ehp.115-a580a. PMC 2137107. PMID 18087575.
+Jump up ^ Allen, A. L. (1 June 2003). "The Diagnosis of Acetaminophen Toxicosis in a Cat". Canadian Veterinary Journal 44 (6): 509–510. PMC 340185. PMID 12839249.
+^ Jump up to: a b Villar, D.; Buck, W. B.; Gonzalez, J. M. (1998). "Ibuprofen, Aspirin and Acetaminophen Toxicosis and Treatment in Dogs and Cats". Vet. Hum. Toxicol. 40 (3): 156–162. PMID 9610496.
+Jump up ^ DeClementi, Camille; Bailey, Keith L.; Goldstein, Spencer C.; Orser, Michael Scott (2004). "Suspected Toxicosis after Topical Administration of Minoxidil in Two Cats". Journal of Veterinary Emergency and Critical Care 14 (4): 287–292. doi:10.1111/j.1476-4431.2004.04014.x.
+Jump up ^ Bischoff, K.; Guale, F. (1 April 1998). "Australian Tea Tree (Melaleuca alternifolia) Oil Poisoning in Three Purebred Cats". J. Vet. Diagn. Invest. 10 (2): 208–210. doi:10.1177/104063879801000223. PMID 9576358.
+Jump up ^ Rousseaux, C. G.; Smith, R. A.; Nicholson, S. (1986). "Acute Pine-Sol Toxicity in a Domestic Cat". Veterinary and Human Toxicology 28 (4): 316–317. PMID 3750813.
+Jump up ^ "Antifreeze Warning". Cat Fanciers' Association (CFA). Archived from the original on 9 May 2007. Retrieved 15 May 2007.
+Jump up ^ "Death by Chocolate? Methylxanthine Toxicosis". Veterinary Technician. 2001. Retrieved 25 August 2009.
+Jump up ^ "Plants and Your Cat". Cat Fanciers' Association. Archived from the original on 17 January 2010. Retrieved 15 May 2007.
+Jump up ^ Langston, Cathy E. (1 January 2002). "Acute Renal Failure Caused by Lily Ingestion in Six Cats". Journal of the American Veterinary Medical Association 220 (1): 49–52, 36. doi:10.2460/javma.2002.220.49. PMID 12680447.
+Jump up ^ Germain, E.; Benhamou, S.; Poulle, M.-L. (2008). "Spatio-temporal Sharing between the European Wildcat, the Domestic Cat and their Hybrids". Journal of Zoology 276 (2): 195–203. doi:10.1111/j.1469-7998.2008.00479.x.
+^ Jump up to: a b Barratt, David G. (1 June 1997). "Home Range Size, Habitat Utilisation and Movement Patterns of Suburban and Farm Cats Felis catus". Ecography 20 (3): 271–280. doi:10.1111/j.1600-0587.1997.tb00371.x. JSTOR 3682838.
+Jump up ^ Randall, Walter; Johnson, R. F.; Randall, S.; Cunningham, J. T. (1985). "Circadian rhythms in food intake and activity in domestic cats". Behavioral Neuroscience 99 (6): 1162–1175. doi:10.1037/0735-7044.99.6.1162. PMID 3843546.
+Jump up ^ Jouvet, Michel (1979). "What Does a Cat Dream About?". Trends in Neurosciences 2: 280–282. doi:10.1016/0166-2236(79)90110-3.
+Jump up ^ Pontier, Dominique; Eugenia Natoli (1996). "Male Reproductive Success in the Domestic Cat (Felis catus L.): A Case History". Behavioural Processes 37 (1): 85–88. doi:10.1016/0376-6357(95)00070-4.
+^ Jump up to: a b Crowell-Davis, S. L.; Curtis, T. M.; Knowles, R. J. (2004). "Social Organization in the Cat: A Modern Understanding". Journal of Feline Medicine and Surgery 6 (1): 19–28. doi:10.1016/j.jfms.2003.09.013. PMID 15123163. Retrieved 21 May 2008.
+^ Jump up to: a b c d e Bradshaw JW, Goodwin D, Legrand-Defrétin V, Nott HM, J.W. (1996). "Food selection by the domestic cat, an obligate carnivore". Comp. Biochem. Physiol. A Physiol. 114 (3): 205–9. doi:10.1016/0300-9629(95)02133-7. PMID 8759144.
+Jump up ^ Jensen, Per (2009). The Ethology of Domestic Animals. "Modular Text" series. Wallingford, England: CABI. ISBN 1-84593-536-5.
+^ Jump up to: a b "Cat Behavior: Body Language". AnimalPlanet.com. 2007. Archived from the original on 24 February 2009. Retrieved 7 September 2012.
+^ Jump up to: a b Cafazzo, S.; Natoli (2009). "The Social Function of Tail Up in the Domestic Cat (Felis silvestris catus)". Behav. Processes 80 (1): 60–66. doi:10.1016/j.beproc.2008.09.008. PMID 18930121.
+Jump up ^ Levine, E.; Perry, P.; Scarlett, J.; Houpt, K. (2005). "Intercat Aggression in Households Following the Introduction of a New Cat". Applied Animal Behaviour Science 90 (90): 325–336. doi:10.1016/j.applanim.2004.07.006. Retrieved 8 April 2009.
+Jump up ^ "Dogs and Cats - Getting Along". Petuniversity.com. Retrieved 2013-07-04.
+Jump up ^ "The Cat Body: Adolescence and Sexual Maturity". AnimalPlanet.com (Animal.Discovery.com). Discovery Communications. 2007. "Cat Guide" section. Archived from the original on 30 June 2008.
+Jump up ^ McComb, K.; Taylor, A. M.; Wilson, C.; Charlton, B. D. (2009). "The Cry Embedded within the Purr". Curr. Biol. 19 (13): R507–508. doi:10.1016/j.cub.2009.05.033. PMID 19602409.
+^ Jump up to: a b Ewing, Tom (2006). "A Hairy Dilemma: When Hair Balls Aren't Harmless". Cat Watch. Feline Health Center, Cornell University. Archived from the original

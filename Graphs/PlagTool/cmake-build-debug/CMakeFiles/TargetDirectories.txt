@@ -1,0 +1,3 @@
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/cmake-build-debug/CMakeFiles/PlagTool.dir
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dragos Surugiu/OneDrive - Universitatea Politehnica Timisoara/PROGRAMARE/ProgramareAn2/ADA/Projects/PlagiarismTool/PlagTool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
