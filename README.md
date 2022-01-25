@@ -72,4 +72,6 @@
       - matrix multiplication, quite alike to fibonacci in log2(n) time
 2) 'Cautbin' & 'fact'
       - 2 binary search problems which require optimization
+3) 'Nrtri'
+      - binary on steroids
 ```
