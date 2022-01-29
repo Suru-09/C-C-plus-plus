@@ -74,4 +74,6 @@
       - 2 binary search problems which require optimization
 3) 'Nrtri'
       - binary on steroids
+4) 'Pic'
+      - binary search on a stack of glasses
 ```
