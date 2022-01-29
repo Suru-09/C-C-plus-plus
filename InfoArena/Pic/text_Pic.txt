@@ -1,0 +1,28 @@
+Alex s-a angajat în vacanţa de vară ca barman. Pentru că îi place să transforme munca la bar într-un spectacol, uneori aranjează mai multe pahare identice ca formă şi dimensiune, dar de capacităţi diferite, sub forma unei stive.
+
+Un pahar din stivă, cu excepţia celor de la bază, se sprijină pe exact două pahare din rândul de mai jos. Paharele sunt numerotate ca în imaginea alăturată. Nivelurile din stivă sunt deasemenea numerotate, începând cu 1, de la vârf, adică paharul 1 se află pe nivelul 1, paharele 2 şi 3 pe nivelul 2, paharele 4, 5 şi 6 sunt pe nivelul 3, ş.a.m.d.
+
+Alex toarnă în fiecare secundă câte un mililitru de apă (o picătură) în paharul numărul 1. Paharele au o proprietate ciudată atunci când sunt pline: primul mililitru care ajunge într-un pahar plin se va scurge instantaneu în paharul aflat imediat în stânga sa pe rândul de dedesubt, următorul mililitru se va scurge instantaneu în paharul aflat imediat în dreapta sa pe rândul de dedesubt şi tot aşa, alternativ câte o picătură în cele două pahare.
+
+De exemplu când paharul 2 este plin, primul mililitru ce va ajunge în el se va scurge în paharul 4, următorul mililitru se scurge în paharul 5, al treilea mililitru se va scurge din nou în paharul 4, ş.a.m.d.
+
+Atunci când într-un pahar plin aflat la baza stivei ajunge un nou mililitru de apă, acesta se scurge instantaneu pe masă.
+
+Cerinţă
+Cunoscând numărul de pahare din rândul de la baza stivei şi faptul că stiva este completă (toate rândurile conţin numărul maxim de pahare ce se pot aşeza după regula de mai sus, iar pe cel mai de sus rând se găseşte un singur pahar), să se scrie un program care determină:
+
+Care este nivelul minim (cel mai de sus) care are suma capacităţilor tuturor paharelor de pe nivel maximă?
+Care este numărul minim de secunde necesar pentru a umple toate paharele folosind procedeul descris mai sus şi câţi mililitri de apă se risipesc (se scurg pe masă) în acest caz?
+Date de intrare
+Pe prima linie a fişierului de intrare pic.in se găseşte un număr natural V a cărui valoare poate fi doar 1 sau 2. Pe a doua linie a fişierului de intrare se găseşte un singur număr natural N reprezentând numărul de pahare din rândul de la baza stivei. Pe a treia linie a fişierului de intrare se găsesc M = N*(N+1)/2 numere naturale C1, C2, ... , CM separate prin câte un spaţiu, Ci reprezentând capacitatea (în mililitri) a paharului numărul i din stivă.
+
+Date de ieşire
+Dacă valoarea lui V este 1 atunci fişierul de ieşire pic.out va conţine pe prima linie un singur număr natural ce reprezintă numărul de ordine al nivelului minim (cel mai de sus) care are suma capacităţilor tuturor paharelor de pe nivel maximă.
+
+Dacă valoarea lui V este 2 atunci fişierul de ieşire va conţine pe prima linie două numere naturale separate printr-un singur spaţiu reprezentând numărul minim de secunde scurse până când toate paharele din stivă sunt pline şi respectiv numărul de mililitri de apă risipiţi (ajunşi pe masă) în acel moment.
+
+Restricţii
+2 ≤ N ≤ 50
+20% din teste vor avea valoarea V = 1, iar 80% din teste vor avea valoarea V = 2.
+Pentru 35% din punctaj N ≤ 17.
+1 ≤ C1, C2, ... , CM ≤ 25
