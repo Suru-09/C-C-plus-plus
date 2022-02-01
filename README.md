@@ -70,8 +70,10 @@
 ```
 1) 'Iepuri'
       - matrix multiplication, quite alike to fibonacci in log2(n) time
-2) 'Cautbin' & 'fact'
-      - 2 binary search problems which require optimization
-3) 'Nrtri'
-      - binary on steroids
+2) 'BinarySearch' folder which contains:
+      1. Nrtri
+      2. Pic
+      3. cautbin
+      4. butoaie
+      5. fact
 ```

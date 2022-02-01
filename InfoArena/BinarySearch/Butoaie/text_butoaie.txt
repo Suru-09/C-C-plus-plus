@@ -1,0 +1,16 @@
+Printr-un portal magic, un număr mare de gândaci au ieşit din Bugland şi au invadat o cramă. Se ştie despre
+ cramă că are N camere, fiecare cameră fiind plină de butoaie de vin, iar în a i-a cameră se află Vi gândaci.
+  Deţinătorii cramei au la dispoiziţie două tipuri de insecticide: K spray-uri numite AntiBug , care elimină
+   dintr-o cameră P gândaci pe zi, şi N-K spray-uri numite ZeroBugs , care elimină dintr-o cameră Q gândaci
+    pe zi. Zilnic, în fiecare cameră se dă cu spray pentru a scăpa de gândaci. Având la dispoziţie resursele
+     date, care este numărul minim de zile în care pot fi salvate butoaiele de vin prin eliminarea tuturor
+      gândacilor? Date de intrare Din butoaie.in se vor citi pe prima linie N şi K, pe a doua linie se vor
+       afla P şi Q, iar pe a treia linie se vor afla N numere, al i-lea reprezentând numărul de Vi gândaci
+        din camera i. Date de ieşire În butoaie.out se va afişa, pe prima şi singura linie, numărul minim
+         de zile necesare pentru elimina toţi gândacii. Restricţii K \leq N \leq 2\cdot 10^5 P,\ Q \leq 
+         10^9 V_i \leq 10^9\ \forall\ 1 \leq i \leq N Pentru teste in valoare de 40 de puncte K \leq N 
+         \leq 10^4$, $P, Q \leq 100$ ; $V_i \leq 10^4 Într-o cameră se poate da cu un singur tip de spray
+          într-o anumită zi, două spray-uri diferite nu pot fi folosite împreună pentru că ar avea un efect
+           toxic asupra butoaielor de vin, iar două spray-uri de acelaşi fel nu au rost să fie folosite 
+           împreună deoarece efectul lor nu creşte.
+           
