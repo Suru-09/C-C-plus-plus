@@ -77,4 +77,6 @@
       4. butoaie
       5. fact
       6. Livada3
+      7. eqs
+      8. triang
 ```
